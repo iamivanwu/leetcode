@@ -18,6 +18,7 @@ No. | Questions | Difficulty | Status | Runtime
 219 | Contains Duplicate II                          | Easy   | Accepted | 116 ms
 220 | Contains Duplicate III                         | Medium | Not Yet  | N/A
 227 | Basic Calculator II                            | Medium | Accepted | 96 ms
+264 | Ugly Number II                                 | Medium | Accepted | 168 ms
 713 | Subarray Product Less Than K                   | Medium | Accepted | 1208 ms
 797 | All Paths From Source to Target                | Medium | Accepted | 132 ms
 781 | Rabbits in Forest                              | Medium | Accepted | 44 ms
@@ -27,8 +28,8 @@ No. | Questions | Difficulty | Status | Runtime
 
 Total | Accepted | Not Yet
 ------|----------|--------
-20    | 19       | 1
+21    | 20       | 1
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-19       | 6    | 12     | 1
+20       | 6    | 13     | 1
