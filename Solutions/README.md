@@ -23,13 +23,14 @@ No. | Questions | Difficulty | Status | Runtime
 797 | All Paths From Source to Target                | Medium | Accepted | 132 ms
 781 | Rabbits in Forest                              | Medium | Accepted | 44 ms
 807 | Max Increase to Keep City Skyline              | Medium | Accepted | 80 ms
+931 | Minimum Falling Path Sum                      | Medium | Accepted | 140 ms
 
 ## Statistics
 
 Total | Accepted | Not Yet
 ------|----------|--------
-21    | 20       | 1
+22    | 21       | 1
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-20       | 6    | 13     | 1
+21       | 6    | 14     | 1
