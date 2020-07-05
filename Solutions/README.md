@@ -7,6 +7,7 @@ No. | Questions | Difficulty | Status | Runtime
 3   | Longest Substring Without Repeating Characters | Medium | Accepted | 68 ms
 4   | Median of Two Sorted Arrays                    | Hard   | Accepted | 108 ms
 5   | Longest Palindromic Substring                  | Medium | Accepted | 2144 ms
+6   | ZigZag Conversion                              | Medium | Accepted | 108 ms
 15  | 3Sum                                           | Medium | Accepted | 680 ms
 20  | Valid Parentheses                              | Easy   | Accepted | 40 ms
 50  | Pow(x, n)                                      | Medium | Accepted | 36 ms
@@ -29,8 +30,8 @@ No. | Questions | Difficulty | Status | Runtime
 
 Total | Accepted | Not Yet
 ------|----------|--------
-22    | 21       | 1
+23    | 22       | 1
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-21       | 6    | 14     | 1
+23       | 7    | 16     | 1
