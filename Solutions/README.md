@@ -8,6 +8,7 @@ No. | Questions | Difficulty | Status | Runtime
 4   | Median of Two Sorted Arrays                    | Hard   | Accepted | 108 ms
 5   | Longest Palindromic Substring                  | Medium | Accepted | 2144 ms
 6   | ZigZag Conversion                              | Medium | Accepted | 108 ms
+7   | Reverse Integer                                | Easy   | Accepted | 32ms
 15  | 3Sum                                           | Medium | Accepted | 680 ms
 20  | Valid Parentheses                              | Easy   | Accepted | 40 ms
 50  | Pow(x, n)                                      | Medium | Accepted | 36 ms
@@ -24,14 +25,14 @@ No. | Questions | Difficulty | Status | Runtime
 797 | All Paths From Source to Target                | Medium | Accepted | 132 ms
 781 | Rabbits in Forest                              | Medium | Accepted | 44 ms
 807 | Max Increase to Keep City Skyline              | Medium | Accepted | 80 ms
-931 | Minimum Falling Path Sum                      | Medium | Accepted | 140 ms
+931 | Minimum Falling Path Sum                       | Medium | Accepted | 140 ms
 
 ## Statistics
 
 Total | Accepted | Not Yet
 ------|----------|--------
-23    | 22       | 1
+24+2    | 23+2     | 1
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-23       | 7    | 16     | 1
+23+2     | 7+1  | 15+1   | 1
