@@ -8,7 +8,8 @@ No. | Questions | Difficulty | Status | Runtime
 4   | Median of Two Sorted Arrays                    | Hard   | Accepted | 108 ms
 5   | Longest Palindromic Substring                  | Medium | Accepted | 2144 ms
 6   | ZigZag Conversion                              | Medium | Accepted | 108 ms
-7   | Reverse Integer                                | Easy   | Accepted | 32ms
+7   | Reverse Integer                                | Easy   | Accepted | 32 ms
+8   | String_to_Integer(atoi)                        | Medium | Accepted | 64 ms
 15  | 3Sum                                           | Medium | Accepted | 680 ms
 20  | Valid Parentheses                              | Easy   | Accepted | 40 ms
 50  | Pow(x, n)                                      | Medium | Accepted | 36 ms
@@ -31,8 +32,8 @@ No. | Questions | Difficulty | Status | Runtime
 
 Total | Accepted | Not Yet
 ------|----------|--------
-24+2    | 23+2     | 1
+25+2    | 24+2     | 1
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-23+2     | 7+1  | 15+1   | 1
+24+2     | 7+1  | 16+1   | 1
