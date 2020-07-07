@@ -11,6 +11,8 @@ No. | Questions | Difficulty | Status | Runtime
 7   | Reverse Integer                                | Easy   | Accepted | 32 ms
 8   | String to Integer(atoi)                        | Medium | Accepted | 64 ms
 11  | Container With Most Water                      | Medium | Accepted | 228 ms
+13  | Roman to Integer                               | Easy   | Accepted | 56 ms
+14  | Longest Common Prefix                          | Easy   | Accepted | 48 ms
 15  | 3Sum                                           | Medium | Accepted | 680 ms
 20  | Valid Parentheses                              | Easy   | Accepted | 40 ms
 50  | Pow(x, n)                                      | Medium | Accepted | 36 ms
@@ -33,8 +35,8 @@ No. | Questions | Difficulty | Status | Runtime
 
 Total | Accepted | Not Yet
 ------|----------|--------
-26+2    | 25+2     | 1
+28+2    | 27+2     | 1
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-25+2     | 7+1  | 17+1   | 1
+27+2     | 9+1  | 17+1   | 1
