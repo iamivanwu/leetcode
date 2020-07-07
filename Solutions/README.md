@@ -15,6 +15,7 @@ No. | Questions | Difficulty | Status | Runtime
 14  | Longest Common Prefix                          | Easy   | Accepted | 48 ms
 15  | 3Sum                                           | Medium | Accepted | 680 ms
 17  | Letter Combinations of a Phone Number          | Medium | Accepted | 72 ms
+19  | Remove Nth Node From End of List               | Medium | Accepted | 40 ms
 20  | Valid Parentheses                              | Easy   | Accepted | 40 ms
 50  | Pow(x, n)                                      | Medium | Accepted | 36 ms
 62  | Unique Paths                                   | Medium | Accepted | 40 ms
@@ -36,8 +37,8 @@ No. | Questions | Difficulty | Status | Runtime
 
 Total | Accepted | Not Yet
 ------|----------|--------
-29+2    | 28+2     | 1
+30+2    | 29+2     | 1
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-28+2     | 9+1  | 18+1   | 1
+29+2     | 9+1  | 19+1   | 1
