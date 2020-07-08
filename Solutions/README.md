@@ -21,6 +21,7 @@ No. | Questions | Difficulty | Status | Runtime
 22  | Generate Parentheses                           | Medium | Accepted | 40 ms
 26  | Remove Duplicates from Sorted Array            | Easy   | Accepted | 132 ms
 28  | Implement strStr()                             | Easy   | Accepted | 44 ms
+29  | Divide Two Integers                            | Medium | Accepted | 68 ms
 50  | Pow(x, n)                                      | Medium | Accepted | 36 ms
 62  | Unique Paths                                   | Medium | Accepted | 40 ms
 62  | Unique Paths II                                | Medium | Accepted | 60 ms
@@ -41,8 +42,8 @@ No. | Questions | Difficulty | Status | Runtime
 
 Total | Accepted | Not Yet
 ------|----------|--------
-34+2  | 33+2     | 1
+35+2  | 34+2     | 1
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-33+2     | 12+1 | 20+1   | 1
+34+2     | 12+1 | 21+1   | 1
