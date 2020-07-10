@@ -29,6 +29,7 @@ No. | Questions | Difficulty | Status | Runtime
 62  | Unique Paths                                   | Medium | Accepted | 40 ms
 62  | Unique Paths II                                | Medium | Accepted | 60 ms
 69  | Sqrt(x)                                        | Easy   | Accepted | 48 ms
+136 | Single Number                                  | Easy   | Accepted | 160 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
 219 | Contains Duplicate II                          | Easy   | Accepted | 116 ms
@@ -45,8 +46,8 @@ No. | Questions | Difficulty | Status | Runtime
 
 Total | Accepted | Not Yet
 ------|----------|--------
-38+2  | 37+2     | 1
+39+2  | 38+2     | 1
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-37+2     | 13+1 | 23+1   | 1
+38+2     | 14+1 | 23+1   | 1
