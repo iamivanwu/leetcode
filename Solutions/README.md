@@ -23,6 +23,7 @@ No. | Questions | Difficulty | Status | Runtime
 28  | Implement strStr()                             | Easy   | Accepted | 44 ms
 29  | Divide Two Integers                            | Medium | Accepted | 68 ms
 33  | Search in Rotated Sorted Array                 | Medium | Accepted | 56 ms
+34  | Find First and Last Position of Element in Sorted Array | Medium | Accepted | 128 ms
 36  | Valid Sudoku                                   | Medium | Accepted | 144 ms
 38  | Count and Say                                  | Easy   | Accepted | 40 ms
 42  | Trapping Rain Water                            | Hard   | Accepted | 80 ms
@@ -49,8 +50,8 @@ No. | Questions | Difficulty | Status | Runtime
 
 Total | Accepted | Not Yet
 ------|----------|--------
-42    | 41       | 1
+43    | 42       | 1
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-41       | 15   | 24     | 2
+42       | 15   | 25     | 2
