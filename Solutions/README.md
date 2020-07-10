@@ -27,6 +27,7 @@ No. | Questions | Difficulty | Status | Runtime
 36  | Valid Sudoku                                   | Medium | Accepted | 144 ms
 38  | Count and Say                                  | Easy   | Accepted | 40 ms
 42  | Trapping Rain Water                            | Hard   | Accepted | 80 ms
+46  | Permutations                                   | Mdeium | Accepted | 64 ms
 50  | Pow(x, n)                                      | Medium | Accepted | 36 ms
 62  | Unique Paths                                   | Medium | Accepted | 40 ms
 62  | Unique Paths II                                | Medium | Accepted | 60 ms
@@ -50,8 +51,8 @@ No. | Questions | Difficulty | Status | Runtime
 
 Total | Accepted | Not Yet
 ------|----------|--------
-43    | 42       | 1
+44    | 43       | 1
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-42       | 15   | 25     | 2
+43       | 15   | 26     | 2
