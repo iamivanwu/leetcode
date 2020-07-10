@@ -25,6 +25,7 @@ No. | Questions | Difficulty | Status | Runtime
 33  | Search in Rotated Sorted Array                 | Medium | Accepted | 56 ms
 36  | Valid Sudoku                                   | Medium | Accepted | 144 ms
 38  | Count and Say                                  | Easy   | Accepted | 40 ms
+42  | Trapping Rain Water                            | Hard   | Accepted | 80 ms
 50  | Pow(x, n)                                      | Medium | Accepted | 36 ms
 62  | Unique Paths                                   | Medium | Accepted | 40 ms
 62  | Unique Paths II                                | Medium | Accepted | 60 ms
@@ -41,13 +42,15 @@ No. | Questions | Difficulty | Status | Runtime
 781 | Rabbits in Forest                              | Medium | Accepted | 44 ms
 807 | Max Increase to Keep City Skyline              | Medium | Accepted | 80 ms
 931 | Minimum Falling Path Sum                       | Medium | Accepted | 140 ms
+1502| Can Make Arithmetic Progression From Sequence  | Easy   | Accepted | 52 ms
+1503| Last Moment Before All Ants Fall Out of a Plank| Medium | Accepted | 212 ms
 
 ## Statistics
 
 Total | Accepted | Not Yet
 ------|----------|--------
-39+2  | 38+2     | 1
+42    | 41       | 1
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-38+2     | 14+1 | 23+1   | 1
+41       | 15   | 24     | 2
