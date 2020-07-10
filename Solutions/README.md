@@ -22,6 +22,7 @@ No. | Questions | Difficulty | Status | Runtime
 26  | Remove Duplicates from Sorted Array            | Easy   | Accepted | 132 ms
 28  | Implement strStr()                             | Easy   | Accepted | 44 ms
 29  | Divide Two Integers                            | Medium | Accepted | 68 ms
+33  | Search in Rotated Sorted Array                 | Medium | Accepted | 56 ms
 36  | Valid Sudoku                                   | Medium | Accepted | 144 ms
 38  | Count and Say                                  | Easy   | Accepted | 40 ms
 50  | Pow(x, n)                                      | Medium | Accepted | 36 ms
@@ -44,8 +45,8 @@ No. | Questions | Difficulty | Status | Runtime
 
 Total | Accepted | Not Yet
 ------|----------|--------
-37+2  | 36+2     | 1
+38+2  | 37+2     | 1
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-36+2     | 13+1 | 22+1   | 1
+37+2     | 13+1 | 23+1   | 1
