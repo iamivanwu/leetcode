@@ -50,10 +50,6 @@ No. | Questions | Difficulty | Status | Runtime
 
 ## Statistics
 
-Total | Accepted | Not Yet
-------|----------|--------
-45    | 44       | 1
-
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-44       | 16   | 26     | 2
+49       | 18   | 29     | 2
