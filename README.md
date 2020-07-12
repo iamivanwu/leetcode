@@ -27,7 +27,8 @@ No. | Questions | Difficulty | Status | Runtime
 36  | Valid Sudoku                                   | Medium | Accepted | 144 ms
 38  | Count and Say                                  | Easy   | Accepted | 40 ms
 42  | Trapping Rain Water                            | Hard   | Accepted | 80 ms
-46  | Permutations                                   | Mdeium | Accepted | 64 ms
+46  | Permutations                                   | Medium | Accepted | 64 ms
+48  | Rotate Image                                   | Medium | Accepted | 40 ms
 50  | Pow(x, n)                                      | Medium | Accepted | 36 ms
 53  | Maximum Subarray                               | Easy   | Accepted | 60 ms
 62  | Unique Paths                                   | Medium | Accepted | 40 ms
@@ -47,9 +48,14 @@ No. | Questions | Difficulty | Status | Runtime
 931 | Minimum Falling Path Sum                       | Medium | Accepted | 140 ms
 1502| Can Make Arithmetic Progression From Sequence  | Easy   | Accepted | 52 ms
 1503| Last Moment Before All Ants Fall Out of a Plank| Medium | Accepted | 212 ms
+1507| Reformat Date                                  | Easy   | Accepted |
+1508| Range Sum of Sorted Subarray Sums              | Medium | Accepted |
+1509| Minimum Difference Between Largest and Smallest Value in Three Moves| Medium | Accepted |
+1512| Number of Good Pairs                           | Easy   | Accepted |
+1513| Number of Substrings With Only 1s              | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-49       | 18   | 29     | 2
+50       | 18   | 30     | 2
