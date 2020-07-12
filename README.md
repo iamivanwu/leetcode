@@ -29,6 +29,7 @@ No. | Questions | Difficulty | Status | Runtime
 42  | Trapping Rain Water                            | Hard   | Accepted | 80 ms
 46  | Permutations                                   | Medium | Accepted | 64 ms
 48  | Rotate Image                                   | Medium | Accepted | 40 ms
+49  | Group Anagrams                                 | Medium | Accepted | 104 ms
 50  | Pow(x, n)                                      | Medium | Accepted | 36 ms
 53  | Maximum Subarray                               | Easy   | Accepted | 60 ms
 62  | Unique Paths                                   | Medium | Accepted | 40 ms
@@ -58,4 +59,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-50       | 18   | 30     | 2
+51       | 18   | 31     | 2
