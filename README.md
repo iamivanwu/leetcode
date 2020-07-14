@@ -36,7 +36,8 @@ No. | Questions | Difficulty | Status | Runtime
 55  | Jump Game                                      | Medium | Accepted | 132 ms
 56  | Merge Intervals                                | Mediun | Accepted | 96 ms
 62  | Unique Paths                                   | Medium | Accepted | 40 ms
-62  | Unique Paths II                                | Medium | Accepted | 60 ms
+63  | Unique Paths II                                | Medium | Accepted | 60 ms
+66  | Plus One                                       | Easy   | Accepted | 28 ms
 69  | Sqrt(x)                                        | Easy   | Accepted | 48 ms
 136 | Single Number                                  | Easy   | Accepted | 160 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
@@ -62,4 +63,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-54       | 18   | 34     | 2
+55       | 19   | 34     | 2
