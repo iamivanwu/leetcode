@@ -34,6 +34,7 @@ No. | Questions | Difficulty | Status | Runtime
 53  | Maximum Subarray                               | Easy   | Accepted | 60 ms
 54  | Spiral Matrix                                  | Medium | Accepted | 56 ms
 55  | Jump Game                                      | Medium | Accepted | 132 ms
+56  | Merge Intervals                                | Mediun | Accepted | 96 ms
 62  | Unique Paths                                   | Medium | Accepted | 40 ms
 62  | Unique Paths II                                | Medium | Accepted | 60 ms
 69  | Sqrt(x)                                        | Easy   | Accepted | 48 ms
@@ -61,4 +62,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-53       | 18   | 33     | 2
+54       | 18   | 34     | 2
