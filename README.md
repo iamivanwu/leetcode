@@ -41,6 +41,7 @@ No. | Questions | Difficulty | Status | Runtime
 69  | Sqrt(x)                                        | Easy   | Accepted | 48 ms
 70  | Climbing Stairs                                | Easy   | Accepted | 36 ms
 73  | Set Matrix Zeroes                              | Medium | Accepted | 268 ms
+75  | Sort Colors                                    | Medium | Accepted | 40 ms
 136 | Single Number                                  | Easy   | Accepted | 160 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
@@ -65,4 +66,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-57       | 20   | 35     | 2
+58       | 20   | 36     | 2
