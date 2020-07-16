@@ -45,6 +45,7 @@ No. | Questions | Difficulty | Status | Runtime
 78  | Subsets                                        | Medium | Accpeted | 56 ms
 88  | Merge Sorted Array                             | Easy   | Accepted | 84 ms
 79  | Word Search                                    | Medium | Accpeted | 336 ms
+94  | Binary Tree Inorder Traversal                  | Medium | Accepted | 44 ms
 136 | Single Number                                  | Easy   | Accepted | 160 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
@@ -69,4 +70,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-61       | 21   | 38     | 2
+62       | 21   | 39     | 2
