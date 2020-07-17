@@ -48,6 +48,7 @@ No. | Questions | Difficulty | Status | Runtime
 94  | Binary Tree Inorder Traversal                  | Medium | Accepted | 44 ms
 98  | Validate Binary Search Tree                    | Medium | Accepted | 64 ms
 101 | Symmetric Tree                                 | Easy   | Accepted | 32 ms
+102 | Binary Tree Level Order Traversal              | Medium | Accepted | 36 ms
 136 | Single Number                                  | Easy   | Accepted | 160 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
@@ -72,4 +73,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-64       | 22   | 40     | 2
+65       | 22   | 41     | 2
