@@ -49,6 +49,7 @@ No. | Questions | Difficulty | Status | Runtime
 98  | Validate Binary Search Tree                    | Medium | Accepted | 64 ms
 101 | Symmetric Tree                                 | Easy   | Accepted | 32 ms
 102 | Binary Tree Level Order Traversal              | Medium | Accepted | 36 ms
+103 | Binary Tree Zigzag Level Order Traversal       | Medium | Accepted | 28 ms
 136 | Single Number                                  | Easy   | Accepted | 160 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
@@ -73,4 +74,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-65       | 22   | 41     | 2
+66       | 22   | 42     | 2
