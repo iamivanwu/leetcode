@@ -52,6 +52,7 @@ No. | Questions | Difficulty | Status | Runtime
 103 | Binary Tree Zigzag Level Order Traversal       | Medium | Accepted | 28 ms
 104 | Maximum Depth of Binary Tree                   | Easy   | Accepted | 56 ms
 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | Accepted | 164 ms
+108 | Convert Sorted Array to Binary Search Tree     | Easy   | Accepted | 68 ms
 136 | Single Number                                  | Easy   | Accepted | 160 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
@@ -76,4 +77,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-68       | 23   | 43     | 2
+69       | 24   | 43     | 2
