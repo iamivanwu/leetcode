@@ -53,6 +53,7 @@ No. | Questions | Difficulty | Status | Runtime
 104 | Maximum Depth of Binary Tree                   | Easy   | Accepted | 56 ms
 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | Accepted | 164 ms
 108 | Convert Sorted Array to Binary Search Tree     | Easy   | Accepted | 68 ms
+116 | Populating Next Right Pointers in Each Node    | Medium | Accepted | 72 ms
 136 | Single Number                                  | Easy   | Accepted | 160 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
@@ -77,4 +78,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-69       | 24   | 43     | 2
+70       | 24   | 44     | 2
