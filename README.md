@@ -55,6 +55,7 @@ No. | Questions | Difficulty | Status | Runtime
 108 | Convert Sorted Array to Binary Search Tree     | Easy   | Accepted | 68 ms
 116 | Populating Next Right Pointers in Each Node    | Medium | Accepted | 72 ms
 118 | Pascal's Triangle                              | Easy   | Accepted | 44 ms
+121 | Best Time to Buy and Sell Stock                | Easy   | Accepted | 64 ms
 136 | Single Number                                  | Easy   | Accepted | 160 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
@@ -79,4 +80,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-71       | 25   | 44     | 2
+72       | 26   | 44     | 2
