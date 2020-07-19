@@ -76,9 +76,10 @@ No. | Questions | Difficulty | Status | Runtime
 1512| Number of Good Pairs                           | Easy   | Accepted |
 1513| Number of Substrings With Only 1s              | Medium | Accepted |
 1518| Water Bottles                                  | Easy   | Accepted |
+1519| Number of Nodes in the Sub-Tree With the Same Label | Medium | Accepted | 4824 ms
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-73       | 27   | 44     | 2
+74       | 27   | 45     | 2
