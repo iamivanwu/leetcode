@@ -75,9 +75,10 @@ No. | Questions | Difficulty | Status | Runtime
 1509| Minimum Difference Between Largest and Smallest Value in Three Moves| Medium | Accepted |
 1512| Number of Good Pairs                           | Easy   | Accepted |
 1513| Number of Substrings With Only 1s              | Medium | Accepted |
+1518| Water Bottles                                  | Easy   | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-72       | 26   | 44     | 2
+73       | 27   | 44     | 2
