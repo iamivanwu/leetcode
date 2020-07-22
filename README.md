@@ -60,6 +60,7 @@ No. | Questions | Difficulty | Status | Runtime
 124 | Binary Tree Maximum Path Sum                   | Hard   | Accepted | 112 ms
 125 | Valid Palindrome                               | Easy   | Accepted | 56 ms
 130 | Surrounded Regions                             | Medium | Accepted | 148 ms
+131 | Palindrome Partitioning                        | Medium | Accepted | 108 ms
 136 | Single Number                                  | Easy   | Accepted | 160 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
@@ -86,4 +87,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-78       | 29   | 46     | 3
+79       | 29   | 47     | 3
