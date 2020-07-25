@@ -85,9 +85,12 @@ No. | Questions | Difficulty | Status | Runtime
 1513| Number of Substrings With Only 1s              | Medium | Accepted |
 1518| Water Bottles                                  | Easy   | Accepted |
 1519| Number of Nodes in the Sub-Tree With the Same Label | Medium | Accepted | 4824 ms
+1523| Count Odd Numbers in an Interval Range         | Easy   | Accepted |
+1525| Number of Good Ways to Split a String          | Medium | Accepted |
+1526| Minimum Number of Increments on Subarrays to Form a Target Array | Hard | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-82       | 29   | 50     | 3
+85       | 30   | 51     | 4
