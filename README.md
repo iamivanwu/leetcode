@@ -88,9 +88,11 @@ No. | Questions | Difficulty | Status | Runtime
 1523| Count Odd Numbers in an Interval Range         | Easy   | Accepted |
 1525| Number of Good Ways to Split a String          | Medium | Accepted |
 1526| Minimum Number of Increments on Subarrays to Form a Target Array | Hard | Accepted |
+1528| Shuffle String                                 | Easy   | Accepted |
+1529| Bulb Switcher IV                               | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-85       | 30   | 51     | 4
+87       | 31   | 52     | 4
