@@ -66,6 +66,7 @@ No. | Questions | Difficulty | Status | Runtime
 138 | Copy List with Random Pointer                  | Medium | Accepted | 72 ms
 139 | Word Break                                     | Medium | Accepted | 40 ms
 141 | Linked List Cycle                              | Easy   | Accepted | 60 ms
+146 | LRU Cache                                      | Medium | Accepted | 1172 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
 219 | Contains Duplicate II                          | Easy   | Accepted | 116 ms
@@ -96,4 +97,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-88       | 32   | 52     | 4
+89       | 32   | 53     | 4
