@@ -93,9 +93,13 @@ No. | Questions | Difficulty | Status | Runtime
 1526| Minimum Number of Increments on Subarrays to Form a Target Array | Hard | Accepted |
 1528| Shuffle String                                 | Easy   | Accepted |
 1529| Bulb Switcher IV                               | Medium | Accepted |
+1534| Count Good Triplets                            | Easy   | Accepted |
+1535| Find the Winner of an Array Game               | Medium | Accepted | 
+1536| Minimum Swaps to Arrange a Binary Grid         | Medium | Accepted | 
+1537| Get the Maximum Score                          | Hard   | Accepted | 
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-90       | 33   | 53     | 4
+94       | 34   | 55     | 5
