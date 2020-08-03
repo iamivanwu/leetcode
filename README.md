@@ -74,6 +74,7 @@ No. | Questions | Difficulty | Status | Runtime
 227 | Basic Calculator II                            | Medium | Accepted | 96 ms
 264 | Ugly Number II                                 | Medium | Accepted | 168 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
+705 | Design HashSet                                 | Easy   | Accepted | 304 ms
 713 | Subarray Product Less Than K                   | Medium | Accepted | 1208 ms
 797 | All Paths From Source to Target                | Medium | Accepted | 132 ms
 781 | Rabbits in Forest                              | Medium | Accepted | 44 ms
@@ -102,4 +103,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-94       | 34   | 55     | 5
+95       | 35   | 55     | 5
