@@ -69,6 +69,7 @@ No. | Questions | Difficulty | Status | Runtime
 146 | LRU Cache                                      | Medium | Accepted | 1172 ms
 148 | Sort List                                      | Medium | Accepted | 224 ms
 150 | Evaluate Reverse Polish Notation               | Medium | Accepted | 72 ms
+152 | Maximum Product Subarray                       | Medium | Accepted | 56 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
 219 | Contains Duplicate II                          | Easy   | Accepted | 116 ms
@@ -97,12 +98,12 @@ No. | Questions | Difficulty | Status | Runtime
 1528| Shuffle String                                 | Easy   | Accepted |
 1529| Bulb Switcher IV                               | Medium | Accepted |
 1534| Count Good Triplets                            | Easy   | Accepted |
-1535| Find the Winner of an Array Game               | Medium | Accepted | 
-1536| Minimum Swaps to Arrange a Binary Grid         | Medium | Accepted | 
-1537| Get the Maximum Score                          | Hard   | Accepted | 
+1535| Find the Winner of an Array Game               | Medium | Accepted |
+1536| Minimum Swaps to Arrange a Binary Grid         | Medium | Accepted |
+1537| Get the Maximum Score                          | Hard   | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-97       | 35   | 57     | 5
+98       | 35   | 58     | 5
