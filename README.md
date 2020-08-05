@@ -73,6 +73,7 @@ No. | Questions | Difficulty | Status | Runtime
 155 | Min Stack                                      | Easy   | Accepted | 56 ms
 160 | Intersection of Two Linked Lists               | Easy   | Accepted | 160 ms
 162 | Find Peak Element                              | Medium | Accepted | 52 ms
+166 | Fraction to Recurring Decimal                  | Medium | Accepted | 64 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
 219 | Contains Duplicate II                          | Easy   | Accepted | 116 ms
@@ -110,4 +111,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-102      | 38   | 59     | 5
+103      | 38   | 60     | 5
