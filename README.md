@@ -75,6 +75,7 @@ No. | Questions | Difficulty | Status | Runtime
 162 | Find Peak Element                              | Medium | Accepted | 52 ms
 166 | Fraction to Recurring Decimal                  | Medium | Accepted | 64 ms
 169 | Majority Element                               | Easy   | Accepted | 228 ms
+171 | Excel Sheet Column Number                      | Easy   | Accepted | 40 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
 219 | Contains Duplicate II                          | Easy   | Accepted | 116 ms
@@ -112,4 +113,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-104      | 39   | 60     | 5
+105      | 40   | 60     | 5
