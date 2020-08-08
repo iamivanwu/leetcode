@@ -108,9 +108,11 @@ No. | Questions | Difficulty | Status | Runtime
 1535| Find the Winner of an Array Game               | Medium | Accepted |
 1536| Minimum Swaps to Arrange a Binary Grid         | Medium | Accepted |
 1537| Get the Maximum Score                          | Hard   | Accepted |
+1539| Kth Missing Positive Number                    | Easy   | Accepted |
+1541| Minimum Insertions to Balance a Parentheses String | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-105      | 40   | 60     | 5
+107      | 41   | 61     | 5
