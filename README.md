@@ -110,9 +110,12 @@ No. | Questions | Difficulty | Status | Runtime
 1537| Get the Maximum Score                          | Hard   | Accepted |
 1539| Kth Missing Positive Number                    | Easy   | Accepted |
 1541| Minimum Insertions to Balance a Parentheses String | Medium | Accepted |
+1544| Make The String Great                          | Easy   | Accepted |
+1545| Find Kth Bit in Nth Binary String              | Medium | Accepted |
+
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-107      | 41   | 61     | 5
+109      | 42   | 62     | 5
