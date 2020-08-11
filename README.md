@@ -76,6 +76,7 @@ No. | Questions | Difficulty | Status | Runtime
 166 | Fraction to Recurring Decimal                  | Medium | Accepted | 64 ms
 169 | Majority Element                               | Easy   | Accepted | 228 ms
 171 | Excel Sheet Column Number                      | Easy   | Accepted | 40 ms
+172 | Factorial Trailing Zeroes                      | Easy   | Accepted | 20 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
 219 | Contains Duplicate II                          | Easy   | Accepted | 116 ms
@@ -113,9 +114,8 @@ No. | Questions | Difficulty | Status | Runtime
 1544| Make The String Great                          | Easy   | Accepted |
 1545| Find Kth Bit in Nth Binary String              | Medium | Accepted |
 
-
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-109      | 42   | 62     | 5
+110      | 43   | 62     | 5
