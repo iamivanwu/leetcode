@@ -79,6 +79,7 @@ No. | Questions | Difficulty | Status | Runtime
 171 | Excel Sheet Column Number                      | Easy   | Accepted | 40 ms
 172 | Factorial Trailing Zeroes                      | Easy   | Accepted | 20 ms
 179 | Largest Number                                 | Medium | Accepted | 32 ms
+189 | Rotate Array                                   | Easy   | Accpeted | 88 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
 219 | Contains Duplicate II                          | Easy   | Accepted | 116 ms
@@ -120,4 +121,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-112      | 44   | 63     | 5
+113      | 45   | 63     | 5
