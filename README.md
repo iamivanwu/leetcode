@@ -81,6 +81,7 @@ No. | Questions | Difficulty | Status | Runtime
 179 | Largest Number                                 | Medium | Accepted | 32 ms
 189 | Rotate Array                                   | Easy   | Accepted | 88 ms
 190 | Reverse Bits                                   | Easy   | Accepted | 28 ms
+191 | Number of 1 Bits                               | Easy   | Accepted | 36 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
 219 | Contains Duplicate II                          | Easy   | Accepted | 116 ms
@@ -122,4 +123,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-114      | 46   | 63     | 5
+115      | 47   | 63     | 5
