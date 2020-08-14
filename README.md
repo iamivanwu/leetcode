@@ -84,6 +84,7 @@ No. | Questions | Difficulty | Status | Runtime
 191 | Number of 1 Bits                               | Easy   | Accepted | 36 ms
 198 | House Robber                                   | Easy   | Accepted | 28 ms
 200 | Number of Islands                              | Medium | Accepted | 164 ms
+202 | Happy Number                                   | Medium | Accepted | 28 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
 219 | Contains Duplicate II                          | Easy   | Accepted | 116 ms
@@ -125,4 +126,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-117      | 48   | 64     | 5
+118      | 49   | 64     | 5
