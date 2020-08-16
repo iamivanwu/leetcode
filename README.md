@@ -123,9 +123,12 @@ No. | Questions | Difficulty | Status | Runtime
 1541| Minimum Insertions to Balance a Parentheses String | Medium | Accepted |
 1544| Make The String Great                          | Easy   | Accepted |
 1545| Find Kth Bit in Nth Binary String              | Medium | Accepted |
+1550| Three Consecutive Odds                         | Easy   | Accepted |
+1551| Minimum Operations to Make Array Equal         | Medium | Accepted |
+1553| Minimum Number of Days to Eat N Oranges        | Hard   | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-120      | 51   | 64     | 5
+123      | 52   | 65     | 6
