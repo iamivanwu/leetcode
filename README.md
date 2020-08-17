@@ -87,6 +87,7 @@ No. | Questions | Difficulty | Status | Runtime
 202 | Happy Number                                   | Medium | Accepted | 28 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 206 | Reverse Linked List                            | Easy   | Accepted | 36 ms
+208 | Implement Trie (Prefix Tree)                   | Medium | Accepted | 208 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
 219 | Contains Duplicate II                          | Easy   | Accepted | 116 ms
 220 | Contains Duplicate III                         | Medium | Not Yet  | N/A
@@ -132,4 +133,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-124      | 53   | 65     | 6
+125      | 53   | 66     | 6
