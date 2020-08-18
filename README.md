@@ -102,6 +102,7 @@ No. | Questions | Difficulty | Status | Runtime
 781 | Rabbits in Forest                              | Medium | Accepted | 44 ms
 807 | Max Increase to Keep City Skyline              | Medium | Accepted | 80 ms
 931 | Minimum Falling Path Sum                       | Medium | Accepted | 140 ms
+967 | Numbers With Same Consecutive Differences      | Medium | Accepted | 40 ms
 1103| Distribute Candies to People                   | Easy   | Accepted | 32 ms
 1502| Can Make Arithmetic Progression From Sequence  | Easy   | Accepted | 52 ms
 1503| Last Moment Before All Ants Fall Out of a Plank| Medium | Accepted | 212 ms
@@ -133,4 +134,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-125      | 53   | 66     | 6
+126      | 53   | 67     | 6
