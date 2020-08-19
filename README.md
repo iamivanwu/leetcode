@@ -101,6 +101,7 @@ No. | Questions | Difficulty | Status | Runtime
 797 | All Paths From Source to Target                | Medium | Accepted | 132 ms
 781 | Rabbits in Forest                              | Medium | Accepted | 44 ms
 807 | Max Increase to Keep City Skyline              | Medium | Accepted | 80 ms
+824 | Goat Latin                                     | Easy   | Accepted | 48 ms
 931 | Minimum Falling Path Sum                       | Medium | Accepted | 140 ms
 967 | Numbers With Same Consecutive Differences      | Medium | Accepted | 40 ms
 1103| Distribute Candies to People                   | Easy   | Accepted | 32 ms
@@ -134,4 +135,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-126      | 53   | 67     | 6
+127      | 54   | 67     | 6
