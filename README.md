@@ -67,6 +67,7 @@ No. | Questions | Difficulty | Status | Runtime
 138 | Copy List with Random Pointer                  | Medium | Accepted | 72 ms
 139 | Word Break                                     | Medium | Accepted | 40 ms
 141 | Linked List Cycle                              | Easy   | Accepted | 60 ms
+143 | Reorder List                                   | Medium | Accepted | 100 ms
 146 | LRU Cache                                      | Medium | Accepted | 1172 ms
 148 | Sort List                                      | Medium | Accepted | 224 ms
 150 | Evaluate Reverse Polish Notation               | Medium | Accepted | 72 ms
@@ -136,4 +137,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-128      | 54   | 68     | 6
+129      | 54   | 69     | 6
