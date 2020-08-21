@@ -104,6 +104,7 @@ No. | Questions | Difficulty | Status | Runtime
 781 | Rabbits in Forest                              | Medium | Accepted | 44 ms
 807 | Max Increase to Keep City Skyline              | Medium | Accepted | 80 ms
 824 | Goat Latin                                     | Easy   | Accepted | 48 ms
+922 | Sort Array By Parity                           | Easy   | Accepted | 100 ms
 931 | Minimum Falling Path Sum                       | Medium | Accepted | 140 ms
 967 | Numbers With Same Consecutive Differences      | Medium | Accepted | 40 ms
 1103| Distribute Candies to People                   | Easy   | Accepted | 32 ms
@@ -137,4 +138,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-129      | 54   | 69     | 6
+130      | 55   | 69     | 6
