@@ -133,9 +133,11 @@ No. | Questions | Difficulty | Status | Runtime
 1550| Three Consecutive Odds                         | Easy   | Accepted |
 1551| Minimum Operations to Make Array Equal         | Medium | Accepted |
 1553| Minimum Number of Days to Eat N Oranges        | Hard   | Accepted |
+1556| Thousand Separator                             | Easy   | Accepted |
+1557| Minimum Number of Vertices to Reach All Nodes  | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-130      | 55   | 69     | 6
+132      | 56   | 70     | 6
