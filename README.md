@@ -135,9 +135,11 @@ No. | Questions | Difficulty | Status | Runtime
 1553| Minimum Number of Days to Eat N Oranges        | Hard   | Accepted |
 1556| Thousand Separator                             | Easy   | Accepted |
 1557| Minimum Number of Vertices to Reach All Nodes  | Medium | Accepted |
+1560| Most Visited Sector in a Circular Track        | Easy   | Accepted |
+1561| Maximum Number of Coins You Can Get            | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-132      | 56   | 70     | 6
+134      | 57   | 71     | 6
