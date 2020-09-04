@@ -97,6 +97,7 @@ No. | Questions | Difficulty | Status | Runtime
 220 | Contains Duplicate III                         | Medium | Not Yet  | N/A
 227 | Basic Calculator II                            | Medium | Accepted | 96 ms
 230 | Kth Smallest Element in a BST                  | Medium | Accepted | 56 ms
+234 | Palindrome Linked List                         | Easy   | Accepted | 60 ms
 264 | Ugly Number II                                 | Medium | Accepted | 168 ms
 342 | Power of Four                                  | Easy   | Accepted | 44 ms
 409 | Longest Palindrome                             | Easy   | Accepted | 40 ms
@@ -145,4 +146,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-137      | 57   | 74     | 6
+138      | 58   | 74     | 6
