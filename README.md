@@ -141,9 +141,11 @@ No. | Questions | Difficulty | Status | Runtime
 1557| Minimum Number of Vertices to Reach All Nodes  | Medium | Accepted |
 1560| Most Visited Sector in a Circular Track        | Easy   | Accepted |
 1561| Maximum Number of Coins You Can Get            | Medium | Accepted |
+1572| Matrix Diagonal Sum                            | Easy   | Accepted |
+1573| Number of Ways to Split a String               | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-138      | 58   | 74     | 6
+140      | 59   | 75     | 6
