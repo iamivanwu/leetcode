@@ -143,9 +143,12 @@ No. | Questions | Difficulty | Status | Runtime
 1561| Maximum Number of Coins You Can Get            | Medium | Accepted |
 1572| Matrix Diagonal Sum                            | Easy   | Accepted |
 1573| Number of Ways to Split a String               | Medium | Accepted |
+1576| Replace All ?'s to Avoid Consecutive Repeating Characters | Easy | Accepted |
+1577| Number of Ways Where Square of Number Is Equal to Product of Two Numbers | Medium | Accepted |
+1578| Minimum Deletion Cost to Avoid Repeating Letters | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-140      | 59   | 75     | 6
+143      | 60   | 77     | 6
