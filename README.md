@@ -99,6 +99,7 @@ No. | Questions | Difficulty | Status | Runtime
 230 | Kth Smallest Element in a BST                  | Medium | Accepted | 56 ms
 234 | Palindrome Linked List                         | Easy   | Accepted | 60 ms
 236 | Lowest Common Ancestor of a Binary Tree        | Medium | Accepted | 64 ms
+237 | Delete Node in a Linked List                   | Easy   | Accepted | 44 ms
 264 | Ugly Number II                                 | Medium | Accepted | 168 ms
 342 | Power of Four                                  | Easy   | Accepted | 44 ms
 409 | Longest Palindrome                             | Easy   | Accepted | 40 ms
@@ -152,4 +153,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-144      | 60   | 78     | 6
+145      | 61   | 78     | 6
