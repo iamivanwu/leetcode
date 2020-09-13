@@ -149,9 +149,11 @@ No. | Questions | Difficulty | Status | Runtime
 1576| Replace All ?'s to Avoid Consecutive Repeating Characters | Easy | Accepted |
 1577| Number of Ways Where Square of Number Is Equal to Product of Two Numbers | Medium | Accepted |
 1578| Minimum Deletion Cost to Avoid Repeating Letters | Medium | Accepted |
+1582| Special Positions in a Binary Matrix           | Easy   | Accepted |
+1583| Count Unhappy Friends                          | Medium | Accpeted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-146      | 61   | 79     | 6
+148      | 62   | 80     | 6
