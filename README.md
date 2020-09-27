@@ -152,9 +152,11 @@ No. | Questions | Difficulty | Status | Runtime
 1578| Minimum Deletion Cost to Avoid Repeating Letters | Medium | Accepted |
 1582| Special Positions in a Binary Matrix           | Easy   | Accepted |
 1583| Count Unhappy Friends                          | Medium | Accpeted |
+1598| Crawler Log Folder                             | Easy   | Accepted |
+1599| Maximum Profit of Operating a Centennial Wheel | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-149      | 62   | 81     | 6
+151      | 63   | 82     | 6
