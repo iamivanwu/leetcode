@@ -154,9 +154,10 @@ No. | Questions | Difficulty | Status | Runtime
 1583| Count Unhappy Friends                          | Medium | Accpeted |
 1598| Crawler Log Folder                             | Easy   | Accepted |
 1599| Maximum Profit of Operating a Centennial Wheel | Medium | Accepted |
+1600| Throne Inheritance                             | Medium | Accepted | 768 ms
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-151      | 63   | 82     | 6
+152      | 63   | 83     | 6
