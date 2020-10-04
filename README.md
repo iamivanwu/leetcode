@@ -155,9 +155,11 @@ No. | Questions | Difficulty | Status | Runtime
 1598| Crawler Log Folder                             | Easy   | Accepted |
 1599| Maximum Profit of Operating a Centennial Wheel | Medium | Accepted |
 1600| Throne Inheritance                             | Medium | Accepted | 768 ms
+1608| Special Array With X Elements Greater Than or Equal X | Easy | Accepted |
+1609| Even Odd Tree                                  | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-152      | 63   | 83     | 6
+154      | 64   | 84     | 6
