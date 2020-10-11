@@ -157,9 +157,11 @@ No. | Questions | Difficulty | Status | Runtime
 1600| Throne Inheritance                             | Medium | Accepted | 768 ms
 1608| Special Array With X Elements Greater Than or Equal X | Easy | Accepted |
 1609| Even Odd Tree                                  | Medium | Accepted |
+1614| Maximum Nesting Depth of the Parentheses       | Easy   | Accetped |
+1615| Maximal Network Rank                           | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-154      | 64   | 84     | 6
+156      | 65   | 85     | 6
