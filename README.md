@@ -159,9 +159,11 @@ No. | Questions | Difficulty | Status | Runtime
 1609| Even Odd Tree                                  | Medium | Accepted |
 1614| Maximum Nesting Depth of the Parentheses       | Easy   | Accetped |
 1615| Maximal Network Rank                           | Medium | Accepted |
+1619| Mean of Array After Removing Some Elements     | Easy   | Accepted |
+1620| Coordinate With Maximum Network Quality        | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-156      | 65   | 85     | 6
+158      | 65   | 87     | 6
