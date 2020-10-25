@@ -161,9 +161,11 @@ No. | Questions | Difficulty | Status | Runtime
 1615| Maximal Network Rank                           | Medium | Accepted |
 1619| Mean of Array After Removing Some Elements     | Easy   | Accepted |
 1620| Coordinate With Maximum Network Quality        | Medium | Accepted |
+1629| Slowest Key                                    | Easy   | Accepted |
+1630| Arithmetic Subarrays                           | Medium | Accetped |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-158      | 65   | 87     | 6
+160      | 66   | 88     | 6
