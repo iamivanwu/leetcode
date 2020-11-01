@@ -163,9 +163,10 @@ No. | Questions | Difficulty | Status | Runtime
 1620| Coordinate With Maximum Network Quality        | Medium | Accepted |
 1629| Slowest Key                                    | Easy   | Accepted |
 1630| Arithmetic Subarrays                           | Medium | Accetped |
+1640| Check Array Formation Through Concatenation    | Easy   | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-160      | 66   | 88     | 6
+161      | 67   | 88     | 6
