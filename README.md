@@ -164,9 +164,11 @@ No. | Questions | Difficulty | Status | Runtime
 1629| Slowest Key                                    | Easy   | Accepted |
 1630| Arithmetic Subarrays                           | Medium | Accetped |
 1640| Check Array Formation Through Concatenation    | Easy   | Accepted |
+1646| Get Maximum in Generated Array                 | Easy   | Accepted |
+1647| Minimum Deletions to Make Character Frequencies Unique | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-161      | 67   | 88     | 6
+163      | 68   | 89     | 6
