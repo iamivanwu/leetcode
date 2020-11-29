@@ -166,9 +166,10 @@ No. | Questions | Difficulty | Status | Runtime
 1640| Check Array Formation Through Concatenation    | Easy   | Accepted |
 1646| Get Maximum in Generated Array                 | Easy   | Accepted |
 1647| Minimum Deletions to Make Character Frequencies Unique | Medium | Accepted |
+1672| Richest Customer Wealth                        | Easy   | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-163      | 68   | 89     | 6
+164      | 69   | 89     | 6
