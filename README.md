@@ -167,9 +167,10 @@ No. | Questions | Difficulty | Status | Runtime
 1646| Get Maximum in Generated Array                 | Easy   | Accepted |
 1647| Minimum Deletions to Make Character Frequencies Unique | Medium | Accepted |
 1672| Richest Customer Wealth                        | Easy   | Accepted |
+1710| Maximum Units on a Truck                       | Easy   | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-164      | 69   | 89     | 6
+165      | 69   | 90     | 6
