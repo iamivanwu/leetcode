@@ -106,6 +106,7 @@ No. | Questions | Difficulty | Status | Runtime
 264 | Ugly Number II                                 | Medium | Accepted | 168 ms
 268 | Missing Number                                 | Easy   | Accepted | 140 ms
 279 | Perfect Squares                                | Medium | Accepted | 1468 ms
+283 | Move Zeroes                                    | Easy   | Accepted | 44 ms
 342 | Power of Four                                  | Easy   | Accepted | 44 ms
 409 | Longest Palindrome                             | Easy   | Accepted | 40 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
@@ -176,4 +177,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-168      | 71   | 91     | 6
+169      | 72   | 91     | 6
