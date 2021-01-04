@@ -104,6 +104,7 @@ No. | Questions | Difficulty | Status | Runtime
 240 | Search a 2D Matrix II                          | Medium | Accepted | 32 ms
 242 | Valid Anagram                                  | Easy   | Accepted | 32 ms
 264 | Ugly Number II                                 | Medium | Accepted | 168 ms
+268 | Missing Number                                 | Easy   | Accepted | 140 ms
 342 | Power of Four                                  | Easy   | Accepted | 44 ms
 409 | Longest Palindrome                             | Easy   | Accepted | 40 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
@@ -174,4 +175,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-166      | 70   | 90     | 6
+167      | 71   | 90     | 6
