@@ -175,9 +175,11 @@ No. | Questions | Difficulty | Status | Runtime
 1647| Minimum Deletions to Make Character Frequencies Unique | Medium | Accepted |
 1672| Richest Customer Wealth                        | Easy   | Accepted |
 1710| Maximum Units on a Truck                       | Easy   | Accepted |
+1720| Decode XORed Array                             | Easy   | Accepted |
+1721| Swapping Nodes in a Linked List                | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-172      | 72   | 94     | 6
+174      | 73   | 95     | 6
