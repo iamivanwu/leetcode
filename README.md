@@ -110,6 +110,7 @@ No. | Questions | Difficulty | Status | Runtime
 287 | Find the Duplicate Number                      | Medium | Accepted | 64 ms
 289 | Game of Life                                   | Medium | Accepted | 36 ms
 300 | Longest Increasing Subsequence                 | Medium | Accepted | 3104 ms
+322 | Coin Change                                    | Medium | Accepted | 1700 ms
 342 | Power of Four                                  | Easy   | Accepted | 44 ms
 409 | Longest Palindrome                             | Easy   | Accepted | 40 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
@@ -182,4 +183,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-174      | 73   | 95     | 6
+175      | 73   | 96     | 6
