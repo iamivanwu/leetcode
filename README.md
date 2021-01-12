@@ -117,6 +117,7 @@ No. | Questions | Difficulty | Status | Runtime
 342 | Power of Four                                  | Easy   | Accepted | 44 ms
 344 | Reverse String                                 | Easy   | Accetped | 204 ms
 347 | Top K Frequent Elements                        | Medium | Accepted | 92 ms
+350 | Intersection of Two Arrays II                  | Easy   | Accpeted | 48 ms
 409 | Longest Palindrome                             | Easy   | Accepted | 40 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
 705 | Design HashSet                                 | Easy   | Accepted | 304 ms
@@ -188,4 +189,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-180      | 75   | 99     | 6
+181      | 76   | 99     | 6
