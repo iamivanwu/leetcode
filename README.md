@@ -115,6 +115,7 @@ No. | Questions | Difficulty | Status | Runtime
 328 | Odd Even Linked List                           | Medium | Accepted | 48 ms
 334 | Increasing Triplet Subsequence                 | Medium | Accepted | 56 ms
 342 | Power of Four                                  | Easy   | Accepted | 44 ms
+344 | Reverse String                                 | Easy   | Accetped | 204 ms
 409 | Longest Palindrome                             | Easy   | Accepted | 40 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
 705 | Design HashSet                                 | Easy   | Accepted | 304 ms
@@ -186,4 +187,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-178      | 74   | 98     | 6
+179      | 75   | 98     | 6
