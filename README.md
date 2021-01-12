@@ -112,6 +112,7 @@ No. | Questions | Difficulty | Status | Runtime
 300 | Longest Increasing Subsequence                 | Medium | Accepted | 3104 ms
 322 | Coin Change                                    | Medium | Accepted | 1700 ms
 326 | Power of Three                                 | Easy   | Accepted | 92 ms
+328 | Odd Even Linked List                           | Medium | Accepted | 48 ms
 342 | Power of Four                                  | Easy   | Accepted | 44 ms
 409 | Longest Palindrome                             | Easy   | Accepted | 40 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
@@ -184,4 +185,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-176      | 74   | 96     | 6
+177      | 74   | 97     | 6
