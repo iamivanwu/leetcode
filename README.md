@@ -121,6 +121,7 @@ No. | Questions | Difficulty | Status | Runtime
 378 | Kth Smallest Element in a Sorted Matrix        | Medium | Accepted | 192 ms
 380 | Insert Delete GetRandom O(1)                   | Medium | Accepted | 356 ms
 384 | Shuffle an Array                               | Medium | Accepted | 336 ms
+387 | First Unique Character in a String             | Easy   | Accepted | 96 ms
 409 | Longest Palindrome                             | Easy   | Accepted | 40 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
 705 | Design HashSet                                 | Easy   | Accepted | 304 ms
@@ -192,4 +193,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-184      | 76   | 102     | 6
+185      | 77   | 102     | 6
