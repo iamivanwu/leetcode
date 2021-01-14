@@ -119,6 +119,7 @@ No. | Questions | Difficulty | Status | Runtime
 347 | Top K Frequent Elements                        | Medium | Accepted | 92 ms
 350 | Intersection of Two Arrays II                  | Easy   | Accpeted | 48 ms
 378 | Kth Smallest Element in a Sorted Matrix        | Medium | Accepted | 192 ms
+380 | Insert Delete GetRandom O(1)                   | Medium | Accepted | 356 ms
 409 | Longest Palindrome                             | Easy   | Accepted | 40 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
 705 | Design HashSet                                 | Easy   | Accepted | 304 ms
@@ -190,4 +191,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-182      | 76   | 100     | 6
+183      | 76   | 101     | 6
