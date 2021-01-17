@@ -190,9 +190,11 @@ No. | Questions | Difficulty | Status | Runtime
 1710| Maximum Units on a Truck                       | Easy   | Accepted |
 1720| Decode XORed Array                             | Easy   | Accepted |
 1721| Swapping Nodes in a Linked List                | Medium | Accepted |
+1725| Number Of Rectangles That Can Form The Largest Square | Easy | Accepted |
+1726| Tuple with Same Product                        | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-187      | 78   | 103     | 6
+189      | 79   | 104     | 6
