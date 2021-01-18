@@ -118,6 +118,7 @@ No. | Questions | Difficulty | Status | Runtime
 344 | Reverse String                                 | Easy   | Accetped | 204 ms
 347 | Top K Frequent Elements                        | Medium | Accepted | 92 ms
 350 | Intersection of Two Arrays II                  | Easy   | Accpeted | 48 ms
+371 | Sum of Two Integers                            | Medium | Accpeted | 40 ms
 378 | Kth Smallest Element in a Sorted Matrix        | Medium | Accepted | 192 ms
 380 | Insert Delete GetRandom O(1)                   | Medium | Accepted | 356 ms
 384 | Shuffle an Array                               | Medium | Accepted | 336 ms
@@ -197,4 +198,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-189      | 79   | 104     | 6
+190      | 79   | 105     | 6
