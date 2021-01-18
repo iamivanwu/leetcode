@@ -194,9 +194,10 @@ No. | Questions | Difficulty | Status | Runtime
 1721| Swapping Nodes in a Linked List                | Medium | Accepted |
 1725| Number Of Rectangles That Can Form The Largest Square | Easy | Accepted |
 1726| Tuple with Same Product                        | Medium | Accepted |
+1727| Largest Submatrix With Rearrangements          | Medium | Accepted | 1660 ms
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-190      | 79   | 105     | 6
+192      | 79   | 107     | 6
