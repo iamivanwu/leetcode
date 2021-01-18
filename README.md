@@ -42,9 +42,9 @@ No. | Questions | Difficulty | Status | Runtime
 70  | Climbing Stairs                                | Easy   | Accepted | 36 ms
 73  | Set Matrix Zeroes                              | Medium | Accepted | 268 ms
 75  | Sort Colors                                    | Medium | Accepted | 40 ms
-78  | Subsets                                        | Medium | Accpeted | 56 ms
+78  | Subsets                                        | Medium | Accepted | 56 ms
 88  | Merge Sorted Array                             | Easy   | Accepted | 84 ms
-79  | Word Search                                    | Medium | Accpeted | 336 ms
+79  | Word Search                                    | Medium | Accepted | 336 ms
 94  | Binary Tree Inorder Traversal                  | Medium | Accepted | 44 ms
 98  | Validate Binary Search Tree                    | Medium | Accepted | 64 ms
 101 | Symmetric Tree                                 | Easy   | Accepted | 32 ms
@@ -115,17 +115,18 @@ No. | Questions | Difficulty | Status | Runtime
 328 | Odd Even Linked List                           | Medium | Accepted | 48 ms
 334 | Increasing Triplet Subsequence                 | Medium | Accepted | 56 ms
 342 | Power of Four                                  | Easy   | Accepted | 44 ms
-344 | Reverse String                                 | Easy   | Accetped | 204 ms
+344 | Reverse String                                 | Easy   | Accepted | 204 ms
 347 | Top K Frequent Elements                        | Medium | Accepted | 92 ms
-350 | Intersection of Two Arrays II                  | Easy   | Accpeted | 48 ms
-371 | Sum of Two Integers                            | Medium | Accpeted | 40 ms
+350 | Intersection of Two Arrays II                  | Easy   | Accepted | 48 ms
+371 | Sum of Two Integers                            | Medium | Accepted | 40 ms
 378 | Kth Smallest Element in a Sorted Matrix        | Medium | Accepted | 192 ms
 380 | Insert Delete GetRandom O(1)                   | Medium | Accepted | 356 ms
 384 | Shuffle an Array                               | Medium | Accepted | 336 ms
 387 | First Unique Character in a String             | Easy   | Accepted | 96 ms
+395 | Longest Substring with At Least K Repeating Characters | Medium | Accepted | 36 ms
 409 | Longest Palindrome                             | Easy   | Accepted | 40 ms
 412 | Fizz Buzz                                      | Easy   | Accepted | 40 ms
-454 | 4Sum II                                        | Medium | Accetped | 536 ms
+454 | 4Sum II                                        | Medium | Accepted | 536 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
 705 | Design HashSet                                 | Easy   | Accepted | 304 ms
 713 | Subarray Product Less Than K                   | Medium | Accepted | 1208 ms
@@ -172,18 +173,18 @@ No. | Questions | Difficulty | Status | Runtime
 1577| Number of Ways Where Square of Number Is Equal to Product of Two Numbers | Medium | Accepted |
 1578| Minimum Deletion Cost to Avoid Repeating Letters | Medium | Accepted |
 1582| Special Positions in a Binary Matrix           | Easy   | Accepted |
-1583| Count Unhappy Friends                          | Medium | Accpeted |
+1583| Count Unhappy Friends                          | Medium | Accepted |
 1598| Crawler Log Folder                             | Easy   | Accepted |
 1599| Maximum Profit of Operating a Centennial Wheel | Medium | Accepted |
 1600| Throne Inheritance                             | Medium | Accepted | 768 ms
 1608| Special Array With X Elements Greater Than or Equal X | Easy | Accepted |
 1609| Even Odd Tree                                  | Medium | Accepted |
-1614| Maximum Nesting Depth of the Parentheses       | Easy   | Accetped |
+1614| Maximum Nesting Depth of the Parentheses       | Easy   | Accepted |
 1615| Maximal Network Rank                           | Medium | Accepted |
 1619| Mean of Array After Removing Some Elements     | Easy   | Accepted |
 1620| Coordinate With Maximum Network Quality        | Medium | Accepted |
 1629| Slowest Key                                    | Easy   | Accepted |
-1630| Arithmetic Subarrays                           | Medium | Accetped |
+1630| Arithmetic Subarrays                           | Medium | Accepted |
 1640| Check Array Formation Through Concatenation    | Easy   | Accepted |
 1646| Get Maximum in Generated Array                 | Easy   | Accepted |
 1647| Minimum Deletions to Make Character Frequencies Unique | Medium | Accepted |
