@@ -187,6 +187,7 @@ No. | Questions | Difficulty | Status | Runtime
 1629| Slowest Key                                    | Easy   | Accepted |
 1630| Arithmetic Subarrays                           | Medium | Accepted |
 1640| Check Array Formation Through Concatenation    | Easy   | Accepted |
+1641| Count Sorted Vowel Strings                     | Medium | Accepted | 28 ms
 1646| Get Maximum in Generated Array                 | Easy   | Accepted |
 1647| Minimum Deletions to Make Character Frequencies Unique | Medium | Accepted |
 1672| Richest Customer Wealth                        | Easy   | Accepted |
@@ -201,4 +202,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-193      | 79   | 108     | 6
+194      | 79   | 109     | 6
