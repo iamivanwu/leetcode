@@ -191,6 +191,7 @@ No. | Questions | Difficulty | Status | Runtime
 1646| Get Maximum in Generated Array                 | Easy   | Accepted |
 1647| Minimum Deletions to Make Character Frequencies Unique | Medium | Accepted |
 1672| Richest Customer Wealth                        | Easy   | Accepted |
+1679| Max Number of K-Sum Pairs                      | Medium | Accepted | 732 ms
 1710| Maximum Units on a Truck                       | Easy   | Accepted |
 1720| Decode XORed Array                             | Easy   | Accepted |
 1721| Swapping Nodes in a Linked List                | Medium | Accepted |
@@ -202,4 +203,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-194      | 79   | 109     | 6
+195      | 79   | 110     | 6
