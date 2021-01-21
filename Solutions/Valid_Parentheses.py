@@ -1,12 +1,12 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         first = []
-        dic = {')':-1, '(':1, '[':-2, ']':2, '{':-3, '}':3}
+        dic = {'(':-1, ')':1, '[':-2, ']':2, '{':-3, '}':3}
         for i in range(len(s)):
             if (len(first) == 0):
                 first.append(dic[s[i]])
             else:
-                if (first[-1] + dic[s[i]] == 0):
+                if dic[s[i]] > 0 and (first[-1] + dic[s[i]] == 0):
                     first.pop()
                 else:
                     first.append(dic[s[i]])
@@ -15,7 +15,7 @@ class Solution:
         else:
             return False
 
-s = "()[]{}"
+s = "()[]}{"
 # s = "([)]"
 s = "{[]}"
 sol = Solution()
