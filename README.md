@@ -19,6 +19,7 @@ No. | Questions | Difficulty | Status | Runtime
 20  | Valid Parentheses                              | Easy   | Accepted | 40 ms
 21  | Merge Two Sorted Lists                         | Easy   | Accepted | 64 ms
 22  | Generate Parentheses                           | Medium | Accepted | 40 ms
+23  | Merge k Sorted Lists                           | Hard   | Accepted | 188 ms
 24  | Swap Nodes in Pairs                            | Medium | Accepted | 44 ms
 26  | Remove Duplicates from Sorted Array            | Easy   | Accepted | 132 ms
 28  | Implement strStr()                             | Easy   | Accepted | 44 ms
@@ -204,4 +205,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-196      | 79   | 111     | 6
+197      | 79   | 111    | 7
