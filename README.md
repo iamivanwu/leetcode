@@ -191,6 +191,7 @@ No. | Questions | Difficulty | Status | Runtime
 1641| Count Sorted Vowel Strings                     | Medium | Accepted | 28 ms
 1646| Get Maximum in Generated Array                 | Easy   | Accepted |
 1647| Minimum Deletions to Make Character Frequencies Unique | Medium | Accepted |
+1657| Determine if Two Strings Are Close             | Medium | Accepted | 140 ms
 1672| Richest Customer Wealth                        | Easy   | Accepted |
 1673| Find the Most Competitive Subsequence          | Medium | Accepted | 1352 ms
 1679| Max Number of K-Sum Pairs                      | Medium | Accepted | 732 ms
@@ -205,4 +206,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-197      | 79   | 111    | 7
+198      | 79   | 112    | 7

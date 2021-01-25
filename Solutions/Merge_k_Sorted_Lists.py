@@ -16,15 +16,7 @@ class Solution:
                     head.next = ListNode(b.val)
                     b = b.next
                 head = head.next
-            if not a:
-                while b:
-                    head.next = ListNode(b.val)
-                    b = b.next
-                # head.hext = b
-            else:
-                while a:
-                    head.next = ListNode(a.val)
-                    a = a.next
+            head.next = a or b
             return res.next
         if not lists:
             return None
