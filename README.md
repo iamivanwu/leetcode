@@ -36,7 +36,7 @@ No. | Questions | Difficulty | Status | Runtime
 53  | Maximum Subarray                               | Easy   | Accepted | 60 ms
 54  | Spiral Matrix                                  | Medium | Accepted | 56 ms
 55  | Jump Game                                      | Medium | Accepted | 132 ms
-56  | Merge Intervals                                | Mediun | Accepted | 96 ms
+56  | Merge Intervals                                | Medium | Accepted | 96 ms
 62  | Unique Paths                                   | Medium | Accepted | 40 ms
 63  | Unique Paths II                                | Medium | Accepted | 60 ms
 66  | Plus One                                       | Easy   | Accepted | 28 ms
@@ -82,12 +82,12 @@ No. | Questions | Difficulty | Status | Runtime
 171 | Excel Sheet Column Number                      | Easy   | Accepted | 40 ms
 172 | Factorial Trailing Zeroes                      | Easy   | Accepted | 20 ms
 179 | Largest Number                                 | Medium | Accepted | 32 ms
-189 | Rotate Array                                   | Easy   | Accepted | 88 ms
+189 | Rotate Array                                   | Medium | Accepted | 88 ms
 190 | Reverse Bits                                   | Easy   | Accepted | 28 ms
 191 | Number of 1 Bits                               | Easy   | Accepted | 36 ms
-198 | House Robber                                   | Easy   | Accepted | 28 ms
+198 | House Robber                                   | Medium | Accepted | 28 ms
 200 | Number of Islands                              | Medium | Accepted | 164 ms
-202 | Happy Number                                   | Medium | Accepted | 28 ms
+202 | Happy Number                                   | Easy   | Accepted | 28 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
 206 | Reverse Linked List                            | Easy   | Accepted | 36 ms
 207 | Course Schedule                                | Medium | Accepted | 144 ms
@@ -96,7 +96,6 @@ No. | Questions | Difficulty | Status | Runtime
 215 | Kth Largest Element in an Array                | Medium | Accepted | 1192 ms
 217 | Contains Duplicate                             | Easy   | Accepted | 136 ms
 219 | Contains Duplicate II                          | Easy   | Accepted | 116 ms
-220 | Contains Duplicate III                         | Medium | Not Yet  | N/A
 227 | Basic Calculator II                            | Medium | Accepted | 96 ms
 230 | Kth Smallest Element in a BST                  | Medium | Accepted | 56 ms
 234 | Palindrome Linked List                         | Easy   | Accepted | 60 ms
@@ -140,6 +139,7 @@ No. | Questions | Difficulty | Status | Runtime
 931 | Minimum Falling Path Sum                       | Medium | Accepted | 140 ms
 967 | Numbers With Same Consecutive Differences      | Medium | Accepted | 40 ms
 1103| Distribute Candies to People                   | Easy   | Accepted | 32 ms
+1437| Check If All 1's Are at Least Length K Places Away | Easy | Accepted | 1228 ms
 1502| Can Make Arithmetic Progression From Sequence  | Easy   | Accepted | 52 ms
 1503| Last Moment Before All Ants Fall Out of a Plank| Medium | Accepted | 212 ms
 1507| Reformat Date                                  | Easy   | Accepted |
@@ -206,4 +206,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-198      | 79   | 112    | 7
+199      | 80   | 112    | 7
