@@ -129,6 +129,7 @@ No. | Questions | Difficulty | Status | Runtime
 412 | Fizz Buzz                                      | Easy   | Accepted | 40 ms
 454 | 4Sum II                                        | Medium | Accepted | 536 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
+669 | Trim a Binary Search Tree                      | Medium | Accepted | 64 ms
 705 | Design HashSet                                 | Easy   | Accepted | 304 ms
 713 | Subarray Product Less Than K                   | Medium | Accepted | 1208 ms
 797 | All Paths From Source to Target                | Medium | Accepted | 132 ms
@@ -209,4 +210,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-202      | 81   | 114    | 7
+203      | 81   | 115    | 7
