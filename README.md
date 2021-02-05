@@ -42,6 +42,7 @@ No. | Questions | Difficulty | Status | Runtime
 66  | Plus One                                       | Easy   | Accepted | 28 ms
 69  | Sqrt(x)                                        | Easy   | Accepted | 48 ms
 70  | Climbing Stairs                                | Easy   | Accepted | 36 ms
+71  | Simplify Path                                  | Medium | Accepted | 32 ms
 73  | Set Matrix Zeroes                              | Medium | Accepted | 268 ms
 75  | Sort Colors                                    | Medium | Accepted | 40 ms
 78  | Subsets                                        | Medium | Accepted | 56 ms
@@ -211,4 +212,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-204      | 82   | 115    | 7
+205      | 82   | 116    | 7
