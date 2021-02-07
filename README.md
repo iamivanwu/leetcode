@@ -208,9 +208,11 @@ No. | Questions | Difficulty | Status | Runtime
 1742| Maximum Number of Balls in a Box               | Easy   | Accepted |
 1743| Restore the Array From Adjacent Pairs          | Medium | Accepted |
 1744| Can You Eat Your Favorite Candy on Your Favorite Day? | Medium | Accepted |
+1752| Check if Array Is Sorted and Rotated           | Easy   | Accepted |
+1753| Maximum Score From Removing Stones             | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-206      | 82   | 117    | 7
+208      | 83   | 118    | 7
