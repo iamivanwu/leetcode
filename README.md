@@ -110,6 +110,7 @@ No. | Questions | Difficulty | Status | Runtime
 268 | Missing Number                                 | Easy   | Accepted | 140 ms
 279 | Perfect Squares                                | Medium | Accepted | 1468 ms
 283 | Move Zeroes                                    | Easy   | Accepted | 44 ms
+284 | Peeking Iterator                               | Medium | Accepted | 24 ms
 287 | Find the Duplicate Number                      | Medium | Accepted | 64 ms
 289 | Game of Life                                   | Medium | Accepted | 36 ms
 300 | Longest Increasing Subsequence                 | Medium | Accepted | 3104 ms
@@ -216,4 +217,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-209      | 84   | 118    | 7
+210      | 84   | 119    | 7
