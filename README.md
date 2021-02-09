@@ -132,6 +132,7 @@ No. | Questions | Difficulty | Status | Runtime
 412 | Fizz Buzz                                      | Easy   | Accepted | 40 ms
 454 | 4Sum II                                        | Medium | Accepted | 536 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
+538 | Convert BST to Greater Tree                    | Medium | Accepted | 80 ms
 594 | Longest Harmonious Subsequence                 | Easy   | Accepted | 392 ms
 669 | Trim a Binary Search Tree                      | Medium | Accepted | 64 ms
 705 | Design HashSet                                 | Easy   | Accepted | 304 ms
@@ -217,4 +218,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-210      | 84   | 119    | 7
+211      | 84   | 120    | 7
