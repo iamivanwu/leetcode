@@ -145,6 +145,7 @@ No. | Questions | Difficulty | Status | Runtime
 922 | Sort Array By Parity                           | Easy   | Accepted | 100 ms
 931 | Minimum Falling Path Sum                       | Medium | Accepted | 140 ms
 967 | Numbers With Same Consecutive Differences      | Medium | Accepted | 40 ms
+1091| Shortest Path in Binary Matrix                 | Medium | Accepted | 588 ms
 1103| Distribute Candies to People                   | Easy   | Accepted | 32 ms
 1342| Number of Steps to Reduce a Number to Zero     | Easy   | Accepted | 32 ms
 1437| Check If All 1's Are at Least Length K Places Away | Easy | Accepted | 1228 ms
@@ -219,4 +220,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-212      | 85   | 120    | 7
+213      | 85   | 121    | 7
