@@ -137,6 +137,7 @@ No. | Questions | Difficulty | Status | Runtime
 669 | Trim a Binary Search Tree                      | Medium | Accepted | 64 ms
 705 | Design HashSet                                 | Easy   | Accepted | 304 ms
 713 | Subarray Product Less Than K                   | Medium | Accepted | 1208 ms
+785 | Is Graph Bipartite?                            | Medium | Accepted | 172 ms
 797 | All Paths From Source to Target                | Medium | Accepted | 132 ms
 781 | Rabbits in Forest                              | Medium | Accepted | 44 ms
 807 | Max Increase to Keep City Skyline              | Medium | Accepted | 80 ms
@@ -220,4 +221,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-213      | 85   | 121    | 7
+214      | 85   | 122    | 7
