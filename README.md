@@ -27,7 +27,7 @@ No. | Questions | Difficulty | Status | Runtime
 33  | Search in Rotated Sorted Array                 | Medium | Accepted | 56 ms
 34  | Find First and Last Position of Element in Sorted Array | Medium | Accepted | 128 ms
 36  | Valid Sudoku                                   | Medium | Accepted | 144 ms
-38  | Count and Say                                  | Easy   | Accepted | 40 ms
+38  | Count and Say                                  | Medium   | Accepted | 40 ms
 42  | Trapping Rain Water                            | Hard   | Accepted | 80 ms
 46  | Permutations                                   | Medium | Accepted | 64 ms
 48  | Rotate Image                                   | Medium | Accepted | 40 ms
@@ -148,6 +148,7 @@ No. | Questions | Difficulty | Status | Runtime
 967 | Numbers With Same Consecutive Differences      | Medium | Accepted | 40 ms
 1091| Shortest Path in Binary Matrix                 | Medium | Accepted | 588 ms
 1103| Distribute Candies to People                   | Easy   | Accepted | 32 ms
+1337| The K Weakest Rows in a Matrix                 | Easy   | Accepted | 108 ms
 1342| Number of Steps to Reduce a Number to Zero     | Easy   | Accepted | 32 ms
 1437| Check If All 1's Are at Least Length K Places Away | Easy | Accepted | 1228 ms
 1502| Can Make Arithmetic Progression From Sequence  | Easy   | Accepted | 52 ms
@@ -221,4 +222,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-214      | 85   | 122    | 7
+215      | 85   | 123    | 7
