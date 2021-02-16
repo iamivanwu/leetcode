@@ -137,6 +137,7 @@ No. | Questions | Difficulty | Status | Runtime
 669 | Trim a Binary Search Tree                      | Medium | Accepted | 64 ms
 705 | Design HashSet                                 | Easy   | Accepted | 304 ms
 713 | Subarray Product Less Than K                   | Medium | Accepted | 1208 ms
+784 | Letter Case Permutation                        | Medium | Accepted | 52 ms
 785 | Is Graph Bipartite?                            | Medium | Accepted | 172 ms
 797 | All Paths From Source to Target                | Medium | Accepted | 132 ms
 781 | Rabbits in Forest                              | Medium | Accepted | 44 ms
@@ -222,4 +223,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-215      | 85   | 123    | 7
+216      | 85   | 124    | 7
