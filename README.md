@@ -130,6 +130,7 @@ No. | Questions | Difficulty | Status | Runtime
 395 | Longest Substring with At Least K Repeating Characters | Medium | Accepted | 36 ms
 409 | Longest Palindrome                             | Easy   | Accepted | 40 ms
 412 | Fizz Buzz                                      | Easy   | Accepted | 40 ms
+413 | Arithmetic Slices                              | Medium | Accepted | 40 ms
 454 | 4Sum II                                        | Medium | Accepted | 536 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
 538 | Convert BST to Greater Tree                    | Medium | Accepted | 80 ms
@@ -223,4 +224,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-216      | 85   | 124    | 7
+217      | 85   | 125    | 7
