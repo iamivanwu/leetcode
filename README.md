@@ -150,6 +150,7 @@ No. | Questions | Difficulty | Status | Runtime
 967 | Numbers With Same Consecutive Differences      | Medium | Accepted | 40 ms
 1091| Shortest Path in Binary Matrix                 | Medium | Accepted | 588 ms
 1103| Distribute Candies to People                   | Easy   | Accepted | 32 ms
+1249| Minimum Remove to Make Valid Parentheses       | Medium | Accepted | 456 ms
 1337| The K Weakest Rows in a Matrix                 | Easy   | Accepted | 108 ms
 1342| Number of Steps to Reduce a Number to Zero     | Easy   | Accepted | 32 ms
 1437| Check If All 1's Are at Least Length K Places Away | Easy | Accepted | 1228 ms
@@ -224,4 +225,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-217      | 85   | 125    | 7
+218      | 85   | 126    | 7
