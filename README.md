@@ -148,6 +148,7 @@ No. | Questions | Difficulty | Status | Runtime
 922 | Sort Array By Parity                           | Easy   | Accepted | 100 ms
 931 | Minimum Falling Path Sum                       | Medium | Accepted | 140 ms
 967 | Numbers With Same Consecutive Differences      | Medium | Accepted | 40 ms
+991 | Broken Calculator                              | Medium | Accepted | 32 ms
 1091| Shortest Path in Binary Matrix                 | Medium | Accepted | 588 ms
 1103| Distribute Candies to People                   | Easy   | Accepted | 32 ms
 1114| Print in Order                                 | Easy   | Accepted | 36 ms
@@ -228,4 +229,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-221      | 87   | 127    | 7
+222      | 87   | 128    | 7
