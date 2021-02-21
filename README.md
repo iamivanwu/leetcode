@@ -221,9 +221,11 @@ No. | Questions | Difficulty | Status | Runtime
 1744| Can You Eat Your Favorite Candy on Your Favorite Day? | Medium | Accepted |
 1752| Check if Array Is Sorted and Rotated           | Easy   | Accepted |
 1753| Maximum Score From Removing Stones             | Medium | Accepted |
+1768| Merge Strings Alternately                      | Easy   | Accepted |
+1769| Minimum Number of Operations to Move All Balls to Each Box | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-219      | 86   | 126    | 7
+221      | 87   | 127    | 7
