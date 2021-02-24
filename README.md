@@ -146,6 +146,7 @@ No. | Questions | Difficulty | Status | Runtime
 807 | Max Increase to Keep City Skyline              | Medium | Accepted | 80 ms
 821 | Shortest Distance to a Character               | Easy   | Accepted | 32 ms
 824 | Goat Latin                                     | Easy   | Accepted | 48 ms
+856 | Score of Parentheses                           | Medium | Accepted | 28 ms
 922 | Sort Array By Parity                           | Easy   | Accepted | 100 ms
 931 | Minimum Falling Path Sum                       | Medium | Accepted | 140 ms
 967 | Numbers With Same Consecutive Differences      | Medium | Accepted | 40 ms
@@ -230,4 +231,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-223      | 87   | 129    | 7
+224      | 87   | 130    | 7
