@@ -150,6 +150,7 @@ No. | Questions | Difficulty | Status | Runtime
 856 | Score of Parentheses                           | Medium | Accepted | 28 ms
 922 | Sort Array By Parity                           | Easy   | Accepted | 100 ms
 931 | Minimum Falling Path Sum                       | Medium | Accepted | 140 ms
+946 | Validate Stack Sequences                       | Medium | Accepted | 72 ms
 967 | Numbers With Same Consecutive Differences      | Medium | Accepted | 40 ms
 991 | Broken Calculator                              | Medium | Accepted | 32 ms
 1091| Shortest Path in Binary Matrix                 | Medium | Accepted | 588 ms
@@ -232,4 +233,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-225      | 87   | 131    | 7
+226      | 87   | 132    | 7
