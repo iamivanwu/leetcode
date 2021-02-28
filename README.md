@@ -228,9 +228,12 @@ No. | Questions | Difficulty | Status | Runtime
 1753| Maximum Score From Removing Stones             | Medium | Accepted |
 1768| Merge Strings Alternately                      | Easy   | Accepted |
 1769| Minimum Number of Operations to Move All Balls to Each Box | Medium | Accepted |
+1773| Count Items Matching a Rule                    | Easy   | Accepted |
+1774| Closest Dessert Cost                           | Medium | Accepted |
+1775| Equal Sum Arrays With Minimum Number of Operations | Medium | Accepted |
 
 ## Statistics
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-226      | 87   | 132    | 7
+229      | 88   | 134    | 7
