@@ -148,6 +148,7 @@ No. | Questions | Difficulty | Status | Runtime
 821 | Shortest Distance to a Character               | Easy   | Accepted | 32 ms
 824 | Goat Latin                                     | Easy   | Accepted | 48 ms
 856 | Score of Parentheses                           | Medium | Accepted | 28 ms
+895 | Maximum Frequency Stack                        | Hard   | Accepted | 324 ms
 922 | Sort Array By Parity                           | Easy   | Accepted | 100 ms
 931 | Minimum Falling Path Sum                       | Medium | Accepted | 140 ms
 946 | Validate Stack Sequences                       | Medium | Accepted | 72 ms
@@ -236,4 +237,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-229      | 88   | 134    | 7
+230      | 88   | 134    | 8
