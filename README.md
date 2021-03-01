@@ -135,6 +135,7 @@ No. | Questions | Difficulty | Status | Runtime
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
 524 | Longest Word in Dictionary through Deleting    | Medium | Accepted | 644 ms
 538 | Convert BST to Greater Tree                    | Medium | Accepted | 80 ms
+575 | Distribute Candies                             | Easy   | Accepted | 836 ms
 581 | Shortest Unsorted Continuous Subarray          | Medium | Accepted | 196 ms
 594 | Longest Harmonious Subsequence                 | Easy   | Accepted | 392 ms
 669 | Trim a Binary Search Tree                      | Medium | Accepted | 64 ms
@@ -237,4 +238,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-230      | 88   | 134    | 8
+231      | 89   | 134    | 8
