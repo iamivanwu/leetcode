@@ -148,6 +148,7 @@ No. | Questions | Difficulty | Status | Runtime
 797 | All Paths From Source to Target                | Medium | Accepted | 132 ms
 781 | Rabbits in Forest                              | Medium | Accepted | 44 ms
 807 | Max Increase to Keep City Skyline              | Medium | Accepted | 80 ms
+820 | Short Encoding of Words                        | Medium | Accepted | 124 ms
 821 | Shortest Distance to a Character               | Easy   | Accepted | 32 ms
 824 | Goat Latin                                     | Easy   | Accepted | 48 ms
 856 | Score of Parentheses                           | Medium | Accepted | 28 ms
@@ -240,4 +241,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-233      | 91   | 134    | 8
+234      | 91   | 135    | 8
