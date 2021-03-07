@@ -142,6 +142,7 @@ No. | Questions | Difficulty | Status | Runtime
 645 | Set Mismatch                                   | Easy   | Accepted | 180 ms
 669 | Trim a Binary Search Tree                      | Medium | Accepted | 64 ms
 705 | Design HashSet                                 | Easy   | Accepted | 304 ms
+706 | Design HashMap                                 | Easy   | Accepted | 332 ms
 713 | Subarray Product Less Than K                   | Medium | Accepted | 1208 ms
 784 | Letter Case Permutation                        | Medium | Accepted | 52 ms
 785 | Is Graph Bipartite?                            | Medium | Accepted | 172 ms
@@ -241,4 +242,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-234      | 91   | 135    | 8
+235      | 92   | 135    | 8
