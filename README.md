@@ -163,6 +163,7 @@ No. | Questions | Difficulty | Status | Runtime
 1103| Distribute Candies to People                   | Easy   | Accepted | 32 ms
 1114| Print in Order                                 | Easy   | Accepted | 36 ms
 1249| Minimum Remove to Make Valid Parentheses       | Medium | Accepted | 456 ms
+1332| Remove Palindromic Subsequences                | Easy   | Accepted | 24 ms
 1337| The K Weakest Rows in a Matrix                 | Easy   | Accepted | 108 ms
 1342| Number of Steps to Reduce a Number to Zero     | Easy   | Accepted | 32 ms
 1437| Check If All 1's Are at Least Length K Places Away | Easy | Accepted | 1228 ms
@@ -242,4 +243,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-235      | 92   | 135    | 8
+236      | 93   | 135    | 8
