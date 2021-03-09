@@ -138,6 +138,7 @@ No. | Questions | Difficulty | Status | Runtime
 575 | Distribute Candies                             | Easy   | Accepted | 836 ms
 581 | Shortest Unsorted Continuous Subarray          | Medium | Accepted | 196 ms
 594 | Longest Harmonious Subsequence                 | Easy   | Accepted | 392 ms
+623 | Add One Row to Tree                            | Medium | Accepted | 56 ms
 637 | Average of Levels in Binary Tree               | Easy   | Accepted | 48 ms
 645 | Set Mismatch                                   | Easy   | Accepted | 180 ms
 669 | Trim a Binary Search Tree                      | Medium | Accepted | 64 ms
@@ -243,4 +244,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-236      | 93   | 135    | 8
+237      | 93   | 136    | 8
