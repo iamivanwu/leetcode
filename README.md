@@ -169,6 +169,7 @@ No. | Questions | Difficulty | Status | Runtime
 1337| The K Weakest Rows in a Matrix                 | Easy   | Accepted | 108 ms
 1342| Number of Steps to Reduce a Number to Zero     | Easy   | Accepted | 32 ms
 1437| Check If All 1's Are at Least Length K Places Away | Easy | Accepted | 1228 ms
+1461| Check If a String Contains All Binary Codes of Size K | Medium | Accepted | 476 ms
 1502| Can Make Arithmetic Progression From Sequence  | Easy   | Accepted | 52 ms
 1503| Last Moment Before All Ants Fall Out of a Plank| Medium | Accepted | 212 ms
 1507| Reformat Date                                  | Easy   | Accepted |
@@ -245,4 +246,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-238      | 93   | 137    | 8
+239      | 93   | 138    | 8
