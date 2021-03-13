@@ -153,6 +153,7 @@ No. | Questions | Difficulty | Status | Runtime
 807 | Max Increase to Keep City Skyline              | Medium | Accepted | 80 ms
 820 | Short Encoding of Words                        | Medium | Accepted | 124 ms
 821 | Shortest Distance to a Character               | Easy   | Accepted | 32 ms
+823 | Binary Trees With Factors                      | Medium | Accepted | 284 ms
 824 | Goat Latin                                     | Easy   | Accepted | 48 ms
 856 | Score of Parentheses                           | Medium | Accepted | 28 ms
 895 | Maximum Frequency Stack                        | Hard   | Accepted | 324 ms
@@ -246,4 +247,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-239      | 93   | 138    | 8
+240      | 93   | 139    | 8
