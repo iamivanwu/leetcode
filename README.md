@@ -135,6 +135,7 @@ No. | Questions | Difficulty | Status | Runtime
 454 | 4Sum II                                        | Medium | Accepted | 536 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
 524 | Longest Word in Dictionary through Deleting    | Medium | Accepted | 644 ms
+535 | Encode and Decode TinyURL                      | Medium | Accepted | 28 ms
 538 | Convert BST to Greater Tree                    | Medium | Accepted | 80 ms
 575 | Distribute Candies                             | Easy   | Accepted | 836 ms
 581 | Shortest Unsorted Continuous Subarray          | Medium | Accepted | 196 ms
@@ -247,4 +248,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-240      | 93   | 139    | 8
+241      | 93   | 140    | 8
