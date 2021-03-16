@@ -147,6 +147,7 @@ No. | Questions | Difficulty | Status | Runtime
 705 | Design HashSet                                 | Easy   | Accepted | 304 ms
 706 | Design HashMap                                 | Easy   | Accepted | 332 ms
 713 | Subarray Product Less Than K                   | Medium | Accepted | 1208 ms
+714 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | Accepted | 604 ms
 784 | Letter Case Permutation                        | Medium | Accepted | 52 ms
 785 | Is Graph Bipartite?                            | Medium | Accepted | 172 ms
 797 | All Paths From Source to Target                | Medium | Accepted | 132 ms
@@ -248,4 +249,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-241      | 93   | 140    | 8
+242      | 93   | 141    | 8
