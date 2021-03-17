@@ -133,6 +133,7 @@ No. | Questions | Difficulty | Status | Runtime
 412 | Fizz Buzz                                      | Easy   | Accepted | 40 ms
 413 | Arithmetic Slices                              | Medium | Accepted | 40 ms
 454 | 4Sum II                                        | Medium | Accepted | 536 ms
+478 | Generate Random Point in a Circle              | Medium | Accepted | 148 ms
 520 | Detect Capital                                 | Easy   | Accepted | 44 ms
 524 | Longest Word in Dictionary through Deleting    | Medium | Accepted | 644 ms
 535 | Encode and Decode TinyURL                      | Medium | Accepted | 28 ms
@@ -249,4 +250,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-242      | 93   | 141    | 8
+243      | 93   | 142    | 8
