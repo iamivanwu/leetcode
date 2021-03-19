@@ -159,6 +159,7 @@ No. | Questions | Difficulty | Status | Runtime
 821 | Shortest Distance to a Character               | Easy   | Accepted | 32 ms
 823 | Binary Trees With Factors                      | Medium | Accepted | 284 ms
 824 | Goat Latin                                     | Easy   | Accepted | 48 ms
+841 | Keys and Rooms                                 | Medium | Accepted | 64 ms
 856 | Score of Parentheses                           | Medium | Accepted | 28 ms
 895 | Maximum Frequency Stack                        | Hard   | Accepted | 324 ms
 922 | Sort Array By Parity                           | Easy   | Accepted | 100 ms
@@ -251,4 +252,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-244      | 93   | 143    | 8
+245      | 93   | 144    | 8
