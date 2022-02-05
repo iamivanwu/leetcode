@@ -230,6 +230,7 @@ No. | Questions | Difficulty | Status | Runtime
 1657| Determine if Two Strings Are Close             | Medium | Accepted | 140 ms
 1672| Richest Customer Wealth                        | Easy   | Accepted |
 1673| Find the Most Competitive Subsequence          | Medium | Accepted | 1352 ms
+1678| Goal Parser Interpretation                     | Easy   | Accepted | 43 ms
 1679| Max Number of K-Sum Pairs                      | Medium | Accepted | 732 ms
 1710| Maximum Units on a Truck                       | Easy   | Accepted |
 1720| Decode XORed Array                             | Easy   | Accepted |
@@ -252,4 +253,4 @@ No. | Questions | Difficulty | Status | Runtime
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-245      | 93   | 144    | 8
+246      | 94   | 144    | 8
