@@ -88,7 +88,7 @@ No. | Questions | Difficulty | Status | Runtime
 190 | Reverse Bits                                   | Easy   | Accepted | 28 ms
 191 | Number of 1 Bits                               | Easy   | Accepted | 36 ms
 198 | House Robber                                   | Medium | Accepted | 28 ms
-199 | Binary Tree Right Side View                    | Medium | Accpeted | 44 ms
+199 | Binary Tree Right Side View                    | Medium | Accepted | 44 ms
 200 | Number of Islands                              | Medium | Accepted | 164 ms
 202 | Happy Number                                   | Easy   | Accepted | 28 ms
 204 | Count Primes                                   | Easy   | Accepted | 656 ms
