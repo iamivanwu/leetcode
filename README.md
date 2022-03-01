@@ -1,5 +1,13 @@
 # LeetCode
 
+## Statistics
+
+Accepted | Easy | Medium | Hard
+---------|------|--------|-----
+247      | 92   | 174    | 8
+
+## Problems
+
 No. | Questions | Difficulty | Status | Runtime
 ----|------------------------------------------------|--------|----------|--------
 1   | Two Sum                                        | Easy   | Accepted | 48 ms
@@ -119,6 +127,7 @@ No. | Questions | Difficulty | Status | Runtime
 326 | Power of Three                                 | Easy   | Accepted | 92 ms
 328 | Odd Even Linked List                           | Medium | Accepted | 48 ms
 334 | Increasing Triplet Subsequence                 | Medium | Accepted | 56 ms
+338 | Counting Bits                                  | Easy   | Accepted | 232 ms
 342 | Power of Four                                  | Easy   | Accepted | 44 ms
 344 | Reverse String                                 | Easy   | Accepted | 204 ms
 347 | Top K Frequent Elements                        | Medium | Accepted | 92 ms
@@ -248,9 +257,3 @@ No. | Questions | Difficulty | Status | Runtime
 1773| Count Items Matching a Rule                    | Easy   | Accepted |
 1774| Closest Dessert Cost                           | Medium | Accepted |
 1775| Equal Sum Arrays With Minimum Number of Operations | Medium | Accepted |
-
-## Statistics
-
-Accepted | Easy | Medium | Hard
----------|------|--------|-----
-246      | 94   | 144    | 8
