@@ -4,7 +4,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-247      | 92   | 174    | 8
+287      | 93   | 174    | 8
 
 ## Problems
 
@@ -36,7 +36,7 @@ No. | Questions | Difficulty | Status | Runtime
 33  | Search in Rotated Sorted Array                 | Medium | Accepted | 56 ms
 34  | Find First and Last Position of Element in Sorted Array | Medium | Accepted | 128 ms
 36  | Valid Sudoku                                   | Medium | Accepted | 144 ms
-38  | Count and Say                                  | Medium   | Accepted | 40 ms
+38  | Count and Say                                  | Medium | Accepted | 40 ms
 42  | Trapping Rain Water                            | Hard   | Accepted | 80 ms
 46  | Permutations                                   | Medium | Accepted | 64 ms
 48  | Rotate Image                                   | Medium | Accepted | 40 ms
@@ -138,6 +138,7 @@ No. | Questions | Difficulty | Status | Runtime
 380 | Insert Delete GetRandom O(1)                   | Medium | Accepted | 356 ms
 384 | Shuffle an Array                               | Medium | Accepted | 336 ms
 387 | First Unique Character in a String             | Easy   | Accepted | 96 ms
+392 | Is Subsequence                                 | Easy   | Accepted | 59 ms
 395 | Longest Substring with At Least K Repeating Characters | Medium | Accepted | 36 ms
 409 | Longest Palindrome                             | Easy   | Accepted | 40 ms
 412 | Fizz Buzz                                      | Easy   | Accepted | 40 ms
