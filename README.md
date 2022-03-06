@@ -4,7 +4,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-250      | 93   | 149    | 8
+251      | 93   | 149    | 9
 
 ## Problems
 
@@ -186,6 +186,7 @@ No. | Questions | Difficulty | Status | Runtime
 1332| Remove Palindromic Subsequences                | Easy   | Accepted | 24 ms
 1337| The K Weakest Rows in a Matrix                 | Easy   | Accepted | 108 ms
 1342| Number of Steps to Reduce a Number to Zero     | Easy   | Accepted | 32 ms
+1359| Count All Valid Pickup and Delivery Options    | Hard   | Accepted | 54 ms
 1437| Check If All 1's Are at Least Length K Places Away | Easy | Accepted | 1228 ms
 1461| Check If a String Contains All Binary Codes of Size K | Medium | Accepted | 476 ms
 1502| Can Make Arithmetic Progression From Sequence  | Easy   | Accepted | 52 ms
