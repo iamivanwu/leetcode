@@ -9,11 +9,11 @@ class Solution:
         head = a
         while l1 != None or l2 != None:
             if l1 == None:
-                a.next = ListNode(l2.val)
-                l2 = l2.next
+                a.next = l2
+                break
             elif l2 == None:
-                a.next = ListNode(l1.val)
-                l1 = l1.next
+                a.next = l1
+                break
             elif l1.val >= l2.val:
                 a.next = ListNode(l2.val)
                 l2 = l2.next

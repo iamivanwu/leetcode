@@ -26,7 +26,7 @@ No. | Questions | Difficulty | Status | Runtime
 17  | Letter Combinations of a Phone Number          | Medium | Accepted | 72 ms
 19  | Remove Nth Node From End of List               | Medium | Accepted | 40 ms
 20  | Valid Parentheses                              | Easy   | Accepted | 40 ms
-21  | Merge Two Sorted Lists                         | Easy   | Accepted | 64 ms
+21  | Merge Two Sorted Lists                         | Easy   | Accepted | 44 ms
 22  | Generate Parentheses                           | Medium | Accepted | 40 ms
 23  | Merge k Sorted Lists                           | Hard   | Accepted | 188 ms
 24  | Swap Nodes in Pairs                            | Medium | Accepted | 44 ms
