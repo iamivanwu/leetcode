@@ -11,7 +11,7 @@ Accepted | Easy | Medium | Hard
 No. | Questions | Difficulty | Status | Runtime
 ----|------------------------------------------------|--------|----------|--------
 1   | Two Sum                                        | Easy   | Accepted | 48 ms
-2   | Add Two Numbers                                | Medium | Accepted | 72 ms
+2   | Add Two Numbers                                | Medium | Accepted | 100 ms
 3   | Longest Substring Without Repeating Characters | Medium | Accepted | 68 ms
 4   | Median of Two Sorted Arrays                    | Hard   | Accepted | 108 ms
 5   | Longest Palindromic Substring                  | Medium | Accepted | 2144 ms
