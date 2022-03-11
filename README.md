@@ -4,7 +4,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-252      | 93   | 150    | 9
+253      | 93   | 151    | 9
 
 ## Problems
 
@@ -46,6 +46,7 @@ No. | Questions | Difficulty | Status | Runtime
 54  | Spiral Matrix                                  | Medium | Accepted | 56 ms
 55  | Jump Game                                      | Medium | Accepted | 132 ms
 56  | Merge Intervals                                | Medium | Accepted | 96 ms
+61  | Rotate List                                    | Medium | Accepted | 61 ms
 62  | Unique Paths                                   | Medium | Accepted | 40 ms
 63  | Unique Paths II                                | Medium | Accepted | 60 ms
 66  | Plus One                                       | Easy   | Accepted | 28 ms
