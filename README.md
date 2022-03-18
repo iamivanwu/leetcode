@@ -4,7 +4,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-253      | 93   | 151    | 9
+254      | 93   | 152    | 9
 
 ## Problems
 
@@ -125,6 +125,7 @@ No. | Questions | Difficulty | Status | Runtime
 287 | Find the Duplicate Number                      | Medium | Accepted | 64 ms
 289 | Game of Life                                   | Medium | Accepted | 36 ms
 300 | Longest Increasing Subsequence                 | Medium | Accepted | 3104 ms
+316 | Remove Duplicate Letters                       | Medium | Accepted | 54 ms
 322 | Coin Change                                    | Medium | Accepted | 1700 ms
 326 | Power of Three                                 | Easy   | Accepted | 92 ms
 328 | Odd Even Linked List                           | Medium | Accepted | 48 ms
