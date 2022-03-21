@@ -4,7 +4,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-255      | 93   | 153    | 9
+256      | 93   | 154    | 9
 
 ## Problems
 
@@ -164,6 +164,7 @@ No. | Questions | Difficulty | Status | Runtime
 713 | Subarray Product Less Than K                   | Medium | Accepted | 1208 ms
 714 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | Accepted | 604 ms
 740 | Delete and Earn                                | Medium | Accepted | 74 ms
+763 | Partition Labels                               | Medium | Accepted | 72 ms
 781 | Rabbits in Forest                              | Medium | Accepted | 44 ms
 784 | Letter Case Permutation                        | Medium | Accepted | 52 ms
 785 | Is Graph Bipartite?                            | Medium | Accepted | 172 ms
