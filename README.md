@@ -4,7 +4,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-256      | 93   | 154    | 9
+257      | 93   | 155    | 9
 
 ## Problems
 
@@ -246,6 +246,7 @@ No. | Questions | Difficulty | Status | Runtime
 1646| Get Maximum in Generated Array                 | Easy   | Accepted |
 1647| Minimum Deletions to Make Character Frequencies Unique | Medium | Accepted |
 1657| Determine if Two Strings Are Close             | Medium | Accepted | 140 ms
+1663| Smallest String With A Given Numeric Value     | Medium | Accepted | 640 ms
 1672| Richest Customer Wealth                        | Easy   | Accepted |
 1673| Find the Most Competitive Subsequence          | Medium | Accepted | 1352 ms
 1678| Goal Parser Interpretation                     | Easy   | Accepted | 43 ms
