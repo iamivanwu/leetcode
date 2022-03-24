@@ -4,7 +4,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-257      | 93   | 155    | 9
+258      | 93   | 156    | 9
 
 ## Problems
 
@@ -177,6 +177,7 @@ No. | Questions | Difficulty | Status | Runtime
 824 | Goat Latin                                     | Easy   | Accepted | 48 ms
 841 | Keys and Rooms                                 | Medium | Accepted | 64 ms
 856 | Score of Parentheses                           | Medium | Accepted | 28 ms
+881 | Boats to Save People                           | Medium | Accepted | 651 ms
 895 | Maximum Frequency Stack                        | Hard   | Accepted | 324 ms
 922 | Sort Array By Parity                           | Easy   | Accepted | 100 ms
 931 | Minimum Falling Path Sum                       | Medium | Accepted | 140 ms
