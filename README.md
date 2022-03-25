@@ -4,7 +4,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-258      | 93   | 156    | 9
+259      | 93   | 157    | 9
 
 ## Problems
 
@@ -185,6 +185,7 @@ No. | Questions | Difficulty | Status | Runtime
 967 | Numbers With Same Consecutive Differences      | Medium | Accepted | 40 ms
 991 | Broken Calculator                              | Medium | Accepted | 32 ms
 1007| Minimum Domino Rotations For Equal Row         | Medium | Accepted | 1272 ms
+1029| Two City Scheduling                            | Medium | Accepted | 40 ms
 1091| Shortest Path in Binary Matrix                 | Medium | Accepted | 588 ms
 1103| Distribute Candies to People                   | Easy   | Accepted | 32 ms
 1114| Print in Order                                 | Easy   | Accepted | 36 ms
