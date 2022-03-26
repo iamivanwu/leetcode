@@ -4,7 +4,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-259      | 93   | 157    | 9
+260      | 94   | 157    | 9
 
 ## Problems
 
@@ -159,6 +159,7 @@ No. | Questions | Difficulty | Status | Runtime
 637 | Average of Levels in Binary Tree               | Easy   | Accepted | 48 ms
 645 | Set Mismatch                                   | Easy   | Accepted | 180 ms
 669 | Trim a Binary Search Tree                      | Medium | Accepted | 64 ms
+704 | Binary Search                                  | Easy   | Accepted | 244 ms
 705 | Design HashSet                                 | Easy   | Accepted | 304 ms
 706 | Design HashMap                                 | Easy   | Accepted | 332 ms
 713 | Subarray Product Less Than K                   | Medium | Accepted | 1208 ms
