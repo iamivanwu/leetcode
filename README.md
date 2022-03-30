@@ -4,7 +4,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-260      | 94   | 157    | 9
+261      | 94   | 158    | 9
 
 ## Problems
 
@@ -54,6 +54,7 @@ No. | Questions | Difficulty | Status | Runtime
 70  | Climbing Stairs                                | Easy   | Accepted | 36 ms
 71  | Simplify Path                                  | Medium | Accepted | 32 ms
 73  | Set Matrix Zeroes                              | Medium | Accepted | 268 ms
+74  | Search a 2D Matrix                             | Medium | Accepted | 66 ms
 75  | Sort Colors                                    | Medium | Accepted | 40 ms
 78  | Subsets                                        | Medium | Accepted | 56 ms
 82  | Remove Duplicates from Sorted List II          | Medium | Accepted | 65 ms
