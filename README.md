@@ -4,7 +4,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-264      | 95   | 159    | 10
+265      | 95   | 160    | 10
 
 ## Problems
 
@@ -33,6 +33,7 @@ No. | Questions | Difficulty | Status | Runtime
 26  | Remove Duplicates from Sorted Array            | Easy   | Accepted | 132 ms
 28  | Implement strStr()                             | Easy   | Accepted | 44 ms
 29  | Divide Two Integers                            | Medium | Accepted | 68 ms
+31  | Next Permutation                               | Medium | Accepted | 96 ms
 33  | Search in Rotated Sorted Array                 | Medium | Accepted | 56 ms
 34  | Find First and Last Position of Element in Sorted Array | Medium | Accepted | 128 ms
 36  | Valid Sudoku                                   | Medium | Accepted | 144 ms
