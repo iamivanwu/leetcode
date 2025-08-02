@@ -2,6 +2,6 @@
 
 ## Statistics
 
-Accepted | Easy | Medium | Hard
----------|------|--------|-----
-266      | 93   | 163    | 10
+| Accepted | Easy | Medium | Hard |
+| -------- | ---- | ------ | ---- |
+| 267      | 93   | 163    | 11   |
